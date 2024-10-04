@@ -1,2 +1,2 @@
-# bayesian-demographic-estimation-tutorial
-Materials for tutorial at BMSS2
+# Tutorial on Bayesian demographic estimation
+Materials for tutorial given at [BMSS2](https://bayesforshs2.sciencesconf.org/)
