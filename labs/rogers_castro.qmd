@@ -1,0 +1,59 @@
+---
+title: "Bayesian Rogers-Castro models for migration"
+author: "Monica Alexander"
+format: pdf
+number-sections: true
+subtitle: "BMSS, October 16 2024"
+toc: true
+execute: 
+  echo: true
+  warning: false
+  message: false
+---
+
+# Overview
+
+This Quarto document illustrates how to fit Rogers-Castro models to age-specific migration rates using the `rcbayes` R package. [Here's a paper](https://www.demographic-research.org/articles/volume/49/42) that gives some more information the package.
+
+
+Load in the required packages:
+
+```{r}
+library(tidyverse)
+library(rcbayes)
+```
+
+# What is a Rogers-Castro model?
+
+The Rogers-Castro model (1981) for migration age schedules is multi-exponential parametric model that aims to capture the non-linear characteristic non-linear shape of migration. It has the form:
+$$
+\begin{aligned}
+m(x)= & a_1 \exp \left\{-\alpha_1 x\right\}+ \\
+& a_2 \exp \left\{-\alpha_2\left(x-\mu_2\right)-\exp \left[-\lambda_2\left(x-\mu_2\right)\right]\right\}+ \\
+& a_3 \exp \left\{-\alpha_3\left(x-\mu_3\right)-\exp \left[-\lambda_3\left(x-\mu_3\right)\right]\right\}+ \\
+& a_4 \exp \left\{\alpha_4 x\right\}+ \\
+& c
+\end{aligned}
+$$
+where $m(x)$ is the migration rate (in- or out-) for age $x$. The successive additive components of the model represent pre-working, working, retirement, post-retirement, and overall migration, respectively. Various versions of the model can be estimated; for example, a simpler version would remove the components related to retirement and post-retirement peaks. 
+The `rcbayes` package has a built-in interaction Shiny application that you can use to explore how different parameter values affect the shape of the migration age curve:
+
+```{r, eval=FALSE}
+rcbayes::interact_rc()
+```
+
+# Read in data
+
+XX todo
+
+# Fit model
+
+XX todo
+
+# Plot
+
+XX todo
+
+# Extensions
+
+The `rcbayes` package was designed for users to be able to fit Rogers-Castro models to a single population. The Stan code for the models in the packages is [here](https://github.com/jessieyeung/rcbayes/tree/master/inst/stan). These could be extended to fit, for example, hierarchical models for multiple areas at a time. 

@@ -1,0 +1,394 @@
+---
+title: "Bayesian Gompertz models for mortality"
+author: "Monica Alexander"
+format: pdf
+number-sections: true
+subtitle: "BMSS, October 16 2024"
+toc: true
+execute: 
+  echo: true
+  warning: false
+  message: false
+---
+
+# Overview
+
+This Quarto document illustrates how to fit a Gompertz mortality model in a Bayesian framework using Stan, with a couple of extensions. We will be using data from the Canadian HMD, and some simulated data, as an example. 
+
+# Packages required 
+
+To follow along and execute the code on your own computer, you will need the packages below installed and loaded. `rstan` can be a bit tricky to get working; detailed instructions on how to install can be found [here](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started).  
+
+
+```{r}
+library(rstan)
+library(rstanarm)
+library(tidyverse)
+library(tidybayes)
+library(janitor)
+```
+
+# What is a Gompertz model?
+
+In 1825 Benjamin Gompertz, an actuary in London, proposed the following two-parameter model for mortality:
+$$
+\mu(x) = \alpha e^{\beta x}
+$$
+where $\mu(x)$ is the instantaneous mortality rate (hazard) at age $x$. This model assumes that mortality increases exponentially with age, which is a pretty good assumption for adult mortality (above age 40 or so, with the exception of older ages). 
+
+# Data
+
+For the following two examples we're going to using death and population counts by age and sex for Ontario, sourced from the Canadian Human Mortality Database project. We can read the data files in directly from the URLs: 
+
+```{r}
+dd <- read_table("https://www.prdh.umontreal.ca/BDLC/data/ont/Deaths_1x1.txt", skip = 1)
+dp <- read_table("https://www.prdh.umontreal.ca/BDLC/data/ont/Population.txt", skip = 1)
+```
+
+These data files are in 'wide' format. For our purposes it's going to be easier to work with in 'long format'. So let's do that and also clean some other stuff up:
+
+```{r}
+dd <- dd |> 
+  clean_names() |> 
+  pivot_longer(-(year:age), names_to = "sex", values_to = "deaths") |> 
+  mutate(deaths = as.numeric(deaths), age = as.numeric(age)) |> 
+  mutate(age = ifelse(is.na(age), 110, age))
+
+dp <- dp |> 
+  clean_names() |> 
+  pivot_longer(-(year:age), names_to = "sex", values_to = "pop") |> 
+  mutate(pop = as.numeric(pop), age = as.numeric(age)) |> 
+  mutate(age = ifelse(is.na(age), 110, age))
+
+d <- dd |> 
+  left_join(dp) |> 
+  mutate(mx = deaths/pop,
+         log_mx = log(mx))
+```
+
+Do some quick plots
+
+```{r}
+d |> 
+  filter(age>39, year %in% seq(1939, 2019, by = 20), sex!= "total") |> 
+  ggplot(aes(age, mx, color = factor(year))) +
+  geom_point() + 
+  facet_wrap(~sex)+
+  labs(title = "Mortality rate for Ontario by sex, 1939-2019")+
+  scale_y_log10()+
+  scale_color_viridis_d(name = "year")
+```
+
+# Base model
+
+First let's fit a Gompertz model to males aged 40+ in 2019. Note that Gompertz models have the form
+$$
+\mu(x) = \alpha e^{\beta x}
+$$
+
+So we can write
+$$
+\log \mu(x) = \log \alpha + \beta x
+$$
+More notes:
+
+- To make this fully Bayesian we need to specify the likelihood and priors. The full model here is 
+$$
+y_x \sim \text{Poisson}(P_x\cdot m_x)
+$$
+$$
+\log m_x = \log \alpha + \beta x
+$$
+$$
+\log \alpha \sim N(0, 10^2)
+$$
+$$
+\beta \sim N(0, 0.1^2)
+$$
+where $y_x$ is deaths at age $x$ and $P_x$ is population
+- Could have used a normal likelihood (c.f. using `lm`) but nice to account for population size
+- We are fitting not on age, but on a centered version (why?)
+
+Now we need to get the data in the right format to read into Stan (this required a named list):
+
+```{r}
+d_male_19 <- d |> 
+  filter(year==2019, sex == "male", age>39, age<105) |> 
+  mutate(age_c = age - 40)
+
+stan_data <- list(y = round(d_male_19$deaths),
+                  pop = round(d_male_19$pop),
+                  N = nrow(d_male_19),
+                  age_c = d_male_19$age_c)
+
+```
+
+Run the model and look at some output:
+
+```{r}
+#| output: false
+mod <- stan(file = "../models/gomp.stan", 
+            data = stan_data,
+            seed = 123,
+            refresh = 0)
+```
+
+```{r}
+summary(mod)$summary[c("log_alpha", "beta"),]
+```
+
+
+Some quick model checks, looking at the traceplot and pairwise densities
+
+```{r}
+pars <- c("log_alpha", "beta")
+traceplot(mod, pars = c("beta"))
+pairs(mod, pars = pars)
+```
+
+## Extract the parameter estimates using `tidyverse`
+
+```{r}
+mod |> 
+  gather_draws(log_alpha, beta) |> 
+  median_qi()
+```
+
+
+## Side note: `rstanarm` is good for these simpler models
+
+Above, we wrote our own Stan model to fit a Gompertz model to one year. This is probably a bit of overkill (although good to see). The `rstanarm` and `brms` packages are very useful for standard models (if you've used `lme4`, the syntax is similar, including for multilevel models). For example here's the same model fit in `rstanarm`:
+
+```{r}
+mod_pois_rsarm <- stan_glm(deaths ~ age_c + offset(log(pop)),
+                     data = d_male_19, 
+                     family = poisson, 
+                     refresh = 0)
+
+summary(mod_pois_rsarm)
+```
+
+
+## Calculate and plot some results
+
+Now we can combine the `tidybayes` syntax with `ggplot` to plot some results. For example, here's the data versus the estimates for the linear predictor:
+
+```{r}
+mod |> 
+  gather_draws(mu[x]) |> 
+  median_qi() |> 
+  mutate(age_c = x - 1) |> 
+  left_join(d_male_19) |> 
+  ggplot(aes(age, log_mx)) + 
+  geom_point() + 
+  geom_line(aes(age, .value)) + 
+  geom_ribbon(aes(x = age, ymin = .lower, ymax = .upper), alpha = 0.2)
+```
+
+Let's calculate the modal age at death (which for Gompertz mortality is a function of $\alpha$ and $\beta$, see [here](https://www.demographic-research.org/volumes/vol32/36/)).
+
+```{r}
+mod |> 
+  spread_draws(log_alpha, beta) |> 
+  mutate(mode_age = 1/beta*log(beta/exp(log_alpha))) |> 
+  median_qi()
+```
+
+# Model over time
+
+Let's fit a slightly more complicated model, for multiple years, where the coefficients themselves are modeled as a random walk over time, i.e.
+$$
+\beta_t \sim N(\beta_{t-1}, \sigma^2_{\beta})
+$$
+That is, a different set of Gompertz parameters are fit to every year, but we are assuming that the values in the current year are related to those is the previous year. This is a form of dynamic linear regression. We need to put priors on the first time point, and also on the variance terms:
+$$
+\log \alpha_1 \sim N(-6, 1)
+$$
+$$
+\beta_1 \sim N(0.1, 0.1^2)
+$$
+$$
+\sigma^{\alpha}, \sigma_{\beta} \sim N^+(0,1)
+$$
+Note that the likelihood and model on mortality rates are as before, we just have an additional subscript for time:
+$$
+y_{x,t} \sim \text{Poisson}(P_{x,t}\cdot m_{x,t})
+$$
+$$
+\log m_{x,t} = \log \alpha_t + \beta_t x
+$$
+
+Now to fit the model. First get the data in the right format:
+```{r}
+years <- 1969:2019
+d_male <- d |> filter(year>=years[1], sex == "male", age>39, age<105) |> 
+  mutate(age_c = age - 40)
+
+y <- d_male |> 
+  select(age, year, deaths) |> 
+  pivot_wider(names_from = "year", values_from = "deaths") |> 
+  select(-age) |> 
+  as.matrix()
+
+pop <- d_male |> 
+  select(age, year, pop) |> 
+  pivot_wider(names_from = "year", values_from = "pop") |> 
+  select(-age) |> 
+  as.matrix()
+
+stan_data <- list(y = y,
+                  pop = pop,
+                  N = nrow(d_male_19),
+                  age_c = d_male_19$age_c,
+                  T = ncol(y))
+
+```
+
+Now fit the model (note: takes a while):
+
+```{r}
+#| output: false
+mod <- stan(file = "../models/gomp_time.stan", 
+            data = stan_data,
+            seed = 852,
+            refresh = 0)
+```
+
+```{r}
+summary(mod)$summary[paste0("beta[", 1:(length(years)), "]"),]
+traceplot(mod, pars = c("beta[1]"))
+```
+
+## Plot parameter estimates over time
+
+Now we can plot the parameter estimates over time:
+
+```{r}
+mod |> 
+  gather_draws(log_alpha[i], beta[i]) |> 
+  median_qi() |> 
+  mutate(year = years[i]) |> 
+  ggplot(aes(year, .value)) + geom_line() + 
+  facet_wrap(~.variable, scales = "free_y") +
+  geom_ribbon(aes(ymin = .lower, ymax = .upper), alpha = 0.2)+
+  labs(y = "value", title = "Estimates of Gompertz parameters over time")
+```
+
+...and also the mode age over time:
+
+```{r}
+mod |> 
+  spread_draws(log_alpha[i], beta[i]) |> 
+  mutate(mode_age = 1/beta*log(beta/exp(log_alpha))+40) |> 
+  median_qi() |> 
+  mutate(year = years[i]) |> 
+  ggplot(aes(year, mode_age)) + geom_line() + 
+  geom_ribbon(aes(ymin = mode_age.lower, ymax = mode_age.upper), alpha = 0.2) +
+  labs(title = "Estimated mode age at death over time", y = "age (years)")
+```
+
+
+## Question for you
+
+Can you forecast mortality rates with this model? If so, how? What are the assumptions behind the forecasts?
+
+# Partial data observed
+
+Now we're going to switch gears a bit and have a look at the situation where we have mortality rates for five geographic areas, but in one area we only have partial information. This is based on simulated data (you can have a look to see how I generated it based on the `simulated_data.R` script). 
+
+For 4 areas, we have deaths and population counts from ages 40 up to 60:
+
+```{r}
+df <- read_rds("../data/sim.rds")
+df
+```
+
+For one region, we just have $_{20}q_{40}$, that is, the probability of dying between ages 40 and 60:
+
+```{r}
+q40 <- read_rds("../data/q40.rds")
+q40
+```
+
+## Relating $_{20}q_{40}$ to the Gompertz model
+
+We want to fit a Gompertz model to each of the five areas (even the one with just a summary indicator). How to do this? Well, if we tell Stan how $_{20}q_{40}$ relates to $\mu_x$, then the model has at least some information to estimate $\alpha$ and $\beta$. In particular, for each area, we're assuming:
+$$
+_1p_x = e^{-\mu_x}
+$$
+where $\mu_x = \alpha e^{\beta x}$  and
+$$
+_{20}q_{40} = 1 - \prod_{x=40}^{60} {_1p_x}
+$$
+Check the Stan file `gomp_partial.stan` to see this translated into code.
+## Fit the model
+
+Get the data in the right format. Note that everything is a matrix now because we have more than one area:
+```{r}
+y <- as.matrix(df |> 
+  pivot_wider(names_from = "area", values_from = "deaths") |> 
+  select(-age, -pop))
+pop <- as.matrix(df |> 
+  select(-deaths) |> 
+  pivot_wider(names_from = "area", values_from = "pop") |> 
+  select(-age))
+
+stan_data <- list(N = length(40:59),
+                  M = 4,
+                  K = 5,
+                  y = y,
+                  pop = pop,
+                  z = q40,
+                  age_c = (40:59)-40)
+```
+
+Fit the model:
+
+```{r}
+#| output: false
+mod <- stan(file = "../models/gomp_partial_data.stan", 
+            data = stan_data,
+            seed = 15,
+            control = list(adapt_delta = 0.96),
+            iter = 2500,
+            refresh = 0)
+```
+
+```{r}
+traceplot(mod, c("log_alpha"))
+traceplot(mod, c("beta"))
+```
+
+Let's plot the fitted lines (with uncertainty) with the observed data for each region. Notice the difference in uncertainty around area 5!
+
+```{r}
+mod |> 
+  gather_draws(mu[i,j]) |> 
+  median_qi() |> 
+  mutate(age = i-1+40) |> 
+  rename(area = j) |> 
+  left_join(df) |> 
+  mutate(log_mx = log(deaths/pop)) |> 
+  ggplot(aes(age, log_mx))+
+  geom_point(aes(color = factor(area)))+
+  geom_line(aes(age, .value, color = factor(area)))+
+  geom_ribbon(aes(age, ymin = .lower, ymax = .upper, fill = factor(area)), alpha = 0.5)+
+  scale_color_brewer(name = "Area", palette = "Set1")+
+  scale_fill_brewer(name = "Area", palette = "Set1")+
+  labs(title = "Data and estimates of adult mortality by geographic area", y = "log mortality rate")
+```
+## Compare parameter estimates against the truth
+
+Here's what we estimated:
+
+```{r}
+mod |> 
+  gather_draws(log_alpha[i], beta[i]) |> 
+  median_qi()
+```
+
+And here's the truth (the values underlying the simulation):
+
+```{r}
+read_rds("../data/true_params.rds")
+```
