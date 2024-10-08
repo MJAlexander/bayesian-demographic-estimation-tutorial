@@ -81,7 +81,8 @@ res <- rcbayes::mig_estimate_rc(ages = ages,
                                 retirement = TRUE,
                                 post_retirement = TRUE,
                                 control = list(adapt_delta = 0.96),
-                                seed = 1899)
+                                seed = 1899,
+                                refresh = 0)
 
 ```
 
@@ -103,10 +104,45 @@ res$fit_df |>
   scale_color_brewer(name = "", palette = "Set1")+
   scale_fill_brewer(name = "", palette = "Set1")+
   theme_bw()+
-  labs(title = "In-migration rates, Florida, 2022", subtitle = "Data from ACS, with Rogers-Castro fit", y = "migration rate")
+  labs(title = "In-migration rates, Florida, 2022", 
+       subtitle = "Data from ACS, with Rogers-Castro fit", 
+       y = "migration rate")
 ```
 
-## Another example XX to do
+## Another example 
+
+Let's now fit a reduced form of the Rogers Castro model to Maine. Rather than fitting the full model, we'll just fit the simplest model of pre-working age and working age migration. 
+
+```{r}
+d_maine <- d |> filter(state=="maine")
+ages <- d_maine$age
+migrants <- d_maine$n_mig
+pop <-  d_maine$pop
+
+res_maine <- rcbayes::mig_estimate_rc(ages = ages, 
+                                migrants = migrants, 
+                                pop = pop,
+                                pre_working_age = TRUE,
+                                working_age = TRUE,
+                                retirement = FALSE,
+                                post_retirement = FALSE,
+                                seed = 1865, 
+                                refresh = 0)
+```
+Plotting the results: 
+```{r}
+res_maine$fit_df |> 
+  ggplot(aes(age, data)) + 
+  geom_point(aes(color = "data", fill = "data"))+
+  geom_line(aes(age, median, color = "fit"))+
+  geom_ribbon(aes(age, ymin = lower, ymax = upper, fill = "fit"), alpha = 0.2)+
+  scale_color_brewer(name = "", palette = "Set1")+
+  scale_fill_brewer(name = "", palette = "Set1")+
+  theme_bw()+
+  labs(title = "In-migration rates, Maine, 2022", 
+       subtitle = "Data from ACS, with Rogers-Castro fit", 
+       y = "migration rate")
+```
 
 
 # Extensions
