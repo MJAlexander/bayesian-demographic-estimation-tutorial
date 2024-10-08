@@ -1,0 +1,2089 @@
+state,county,gender,age,deaths,pop
+California,"Alameda County, CA",Female,0,24,42926
+California,"Alameda County, CA",Female,5,0,44868
+California,"Alameda County, CA",Female,10,0,46124
+California,"Alameda County, CA",Female,15,14,45468
+California,"Alameda County, CA",Female,20,10,43966
+California,"Alameda County, CA",Female,25,29,57705
+California,"Alameda County, CA",Female,30,36,71279
+California,"Alameda County, CA",Female,35,55,67697
+California,"Alameda County, CA",Female,40,71,60492
+California,"Alameda County, CA",Female,45,101,55245
+California,"Alameda County, CA",Female,50,116,53622
+California,"Alameda County, CA",Female,55,181,52402
+California,"Alameda County, CA",Female,60,273,49230
+California,"Alameda County, CA",Female,65,401,42685
+California,"Alameda County, CA",Female,70,497,36023
+California,"Alameda County, CA",Female,75,554,23490
+California,"Alameda County, CA",Female,80,700,15656
+California,"Alameda County, CA",Female,85,807,18774
+California,"Alameda County, CA",Male,0,32,44549
+California,"Alameda County, CA",Male,5,0,47440
+California,"Alameda County, CA",Male,10,0,48486
+California,"Alameda County, CA",Male,15,26,47081
+California,"Alameda County, CA",Male,20,63,44015
+California,"Alameda County, CA",Male,25,77,58123
+California,"Alameda County, CA",Male,30,99,72148
+California,"Alameda County, CA",Male,35,139,70270
+California,"Alameda County, CA",Male,40,143,62319
+California,"Alameda County, CA",Male,45,155,56373
+California,"Alameda County, CA",Male,50,231,55483
+California,"Alameda County, CA",Male,55,319,52496
+California,"Alameda County, CA",Male,60,482,47879
+California,"Alameda County, CA",Male,65,549,38781
+California,"Alameda County, CA",Male,70,668,30186
+California,"Alameda County, CA",Male,75,714,18693
+California,"Alameda County, CA",Male,80,696,11529
+California,"Alameda County, CA",Male,85,648,10544
+California,"Alpine County, CA",Female,0,0,28
+California,"Alpine County, CA",Female,5,0,23
+California,"Alpine County, CA",Female,10,0,33
+California,"Alpine County, CA",Female,15,0,35
+California,"Alpine County, CA",Female,20,0,21
+California,"Alpine County, CA",Female,25,0,37
+California,"Alpine County, CA",Female,30,0,21
+California,"Alpine County, CA",Female,35,0,32
+California,"Alpine County, CA",Female,40,0,23
+California,"Alpine County, CA",Female,45,0,38
+California,"Alpine County, CA",Female,50,0,39
+California,"Alpine County, CA",Female,55,0,35
+California,"Alpine County, CA",Female,60,0,53
+California,"Alpine County, CA",Female,65,0,47
+California,"Alpine County, CA",Female,70,0,51
+California,"Alpine County, CA",Female,75,0,24
+California,"Alpine County, CA",Female,80,0,8
+California,"Alpine County, CA",Female,85,0,16
+California,"Alpine County, CA",Male,0,0,23
+California,"Alpine County, CA",Male,5,0,19
+California,"Alpine County, CA",Male,10,0,33
+California,"Alpine County, CA",Male,15,0,50
+California,"Alpine County, CA",Male,20,0,26
+California,"Alpine County, CA",Male,25,0,39
+California,"Alpine County, CA",Male,30,0,41
+California,"Alpine County, CA",Male,35,0,31
+California,"Alpine County, CA",Male,40,0,30
+California,"Alpine County, CA",Male,45,0,38
+California,"Alpine County, CA",Male,50,0,46
+California,"Alpine County, CA",Male,55,0,54
+California,"Alpine County, CA",Male,60,0,65
+California,"Alpine County, CA",Male,65,0,70
+California,"Alpine County, CA",Male,70,0,52
+California,"Alpine County, CA",Male,75,0,27
+California,"Alpine County, CA",Male,80,0,9
+California,"Alpine County, CA",Male,85,0,12
+California,"Amador County, CA",Female,0,0,795
+California,"Amador County, CA",Female,5,0,842
+California,"Amador County, CA",Female,10,0,866
+California,"Amador County, CA",Female,15,0,831
+California,"Amador County, CA",Female,20,0,679
+California,"Amador County, CA",Female,25,0,854
+California,"Amador County, CA",Female,30,0,1007
+California,"Amador County, CA",Female,35,0,988
+California,"Amador County, CA",Female,40,0,905
+California,"Amador County, CA",Female,45,0,875
+California,"Amador County, CA",Female,50,0,1101
+California,"Amador County, CA",Female,55,0,1427
+California,"Amador County, CA",Female,60,17,1718
+California,"Amador County, CA",Female,65,24,1803
+California,"Amador County, CA",Female,70,28,1765
+California,"Amador County, CA",Female,75,36,1100
+California,"Amador County, CA",Female,80,31,638
+California,"Amador County, CA",Female,85,31,582
+California,"Amador County, CA",Male,0,0,848
+California,"Amador County, CA",Male,5,0,934
+California,"Amador County, CA",Male,10,0,910
+California,"Amador County, CA",Male,15,0,947
+California,"Amador County, CA",Male,20,0,876
+California,"Amador County, CA",Male,25,0,1250
+California,"Amador County, CA",Male,30,0,1492
+California,"Amador County, CA",Male,35,0,1546
+California,"Amador County, CA",Male,40,0,1740
+California,"Amador County, CA",Male,45,0,1541
+California,"Amador County, CA",Male,50,10,1539
+California,"Amador County, CA",Male,55,19,1617
+California,"Amador County, CA",Male,60,31,1764
+California,"Amador County, CA",Male,65,27,1759
+California,"Amador County, CA",Male,70,52,1595
+California,"Amador County, CA",Male,75,50,1065
+California,"Amador County, CA",Male,80,45,595
+California,"Amador County, CA",Male,85,30,434
+California,"Butte County, CA",Female,0,0,5372
+California,"Butte County, CA",Female,5,0,5733
+California,"Butte County, CA",Female,10,0,5949
+California,"Butte County, CA",Female,15,0,6559
+California,"Butte County, CA",Female,20,0,11226
+California,"Butte County, CA",Female,25,0,6808
+California,"Butte County, CA",Female,30,0,6325
+California,"Butte County, CA",Female,35,0,6218
+California,"Butte County, CA",Female,40,14,5775
+California,"Butte County, CA",Female,45,19,5127
+California,"Butte County, CA",Female,50,28,5456
+California,"Butte County, CA",Female,55,42,6080
+California,"Butte County, CA",Female,60,64,6573
+California,"Butte County, CA",Female,65,74,6437
+California,"Butte County, CA",Female,70,139,5585
+California,"Butte County, CA",Female,75,146,3536
+California,"Butte County, CA",Female,80,149,2278
+California,"Butte County, CA",Female,85,172,2601
+California,"Butte County, CA",Male,0,0,5641
+California,"Butte County, CA",Male,5,0,6109
+California,"Butte County, CA",Male,10,0,6337
+California,"Butte County, CA",Male,15,0,6535
+California,"Butte County, CA",Male,20,12,11464
+California,"Butte County, CA",Male,25,14,7292
+California,"Butte County, CA",Male,30,22,6863
+California,"Butte County, CA",Male,35,20,6479
+California,"Butte County, CA",Male,40,28,6243
+California,"Butte County, CA",Male,45,31,5266
+California,"Butte County, CA",Male,50,34,5530
+California,"Butte County, CA",Male,55,77,5605
+California,"Butte County, CA",Male,60,132,6203
+California,"Butte County, CA",Male,65,150,5810
+California,"Butte County, CA",Male,70,167,5110
+California,"Butte County, CA",Male,75,170,3002
+California,"Butte County, CA",Male,80,148,1773
+California,"Butte County, CA",Male,85,130,1436
+California,"Calaveras County, CA",Female,0,0,965
+California,"Calaveras County, CA",Female,5,0,1046
+California,"Calaveras County, CA",Female,10,0,1146
+California,"Calaveras County, CA",Female,15,0,1040
+California,"Calaveras County, CA",Female,20,0,878
+California,"Calaveras County, CA",Female,25,0,1029
+California,"Calaveras County, CA",Female,30,0,1218
+California,"Calaveras County, CA",Female,35,0,1209
+California,"Calaveras County, CA",Female,40,0,1155
+California,"Calaveras County, CA",Female,45,0,1037
+California,"Calaveras County, CA",Female,50,0,1470
+California,"Calaveras County, CA",Female,55,10,1784
+California,"Calaveras County, CA",Female,60,13,2261
+California,"Calaveras County, CA",Female,65,21,2242
+California,"Calaveras County, CA",Female,70,37,1917
+California,"Calaveras County, CA",Female,75,36,1252
+California,"Calaveras County, CA",Female,80,41,753
+California,"Calaveras County, CA",Female,85,38,669
+California,"Calaveras County, CA",Male,0,0,1118
+California,"Calaveras County, CA",Male,5,0,1133
+California,"Calaveras County, CA",Male,10,0,1132
+California,"Calaveras County, CA",Male,15,0,1170
+California,"Calaveras County, CA",Male,20,0,967
+California,"Calaveras County, CA",Male,25,0,1100
+California,"Calaveras County, CA",Male,30,0,1174
+California,"Calaveras County, CA",Male,35,0,1327
+California,"Calaveras County, CA",Male,40,0,1273
+California,"Calaveras County, CA",Male,45,0,1139
+California,"Calaveras County, CA",Male,50,15,1396
+California,"Calaveras County, CA",Male,55,19,1712
+California,"Calaveras County, CA",Male,60,36,2126
+California,"Calaveras County, CA",Male,65,37,2010
+California,"Calaveras County, CA",Male,70,53,1922
+California,"Calaveras County, CA",Male,75,47,1252
+California,"Calaveras County, CA",Male,80,32,719
+California,"Calaveras County, CA",Male,85,43,508
+California,"Colusa County, CA",Female,0,0,698
+California,"Colusa County, CA",Female,5,0,812
+California,"Colusa County, CA",Female,10,0,851
+California,"Colusa County, CA",Female,15,0,779
+California,"Colusa County, CA",Female,20,0,696
+California,"Colusa County, CA",Female,25,0,721
+California,"Colusa County, CA",Female,30,0,642
+California,"Colusa County, CA",Female,35,0,764
+California,"Colusa County, CA",Female,40,0,661
+California,"Colusa County, CA",Female,45,0,605
+California,"Colusa County, CA",Female,50,0,626
+California,"Colusa County, CA",Female,55,0,575
+California,"Colusa County, CA",Female,60,0,634
+California,"Colusa County, CA",Female,65,0,534
+California,"Colusa County, CA",Female,70,0,457
+California,"Colusa County, CA",Female,75,0,297
+California,"Colusa County, CA",Female,80,12,196
+California,"Colusa County, CA",Female,85,19,191
+California,"Colusa County, CA",Male,0,0,733
+California,"Colusa County, CA",Male,5,0,813
+California,"Colusa County, CA",Male,10,0,946
+California,"Colusa County, CA",Male,15,0,883
+California,"Colusa County, CA",Male,20,0,692
+California,"Colusa County, CA",Male,25,0,713
+California,"Colusa County, CA",Male,30,0,770
+California,"Colusa County, CA",Male,35,0,769
+California,"Colusa County, CA",Male,40,0,673
+California,"Colusa County, CA",Male,45,0,598
+California,"Colusa County, CA",Male,50,0,652
+California,"Colusa County, CA",Male,55,0,644
+California,"Colusa County, CA",Male,60,0,662
+California,"Colusa County, CA",Male,65,15,566
+California,"Colusa County, CA",Male,70,13,453
+California,"Colusa County, CA",Male,75,10,290
+California,"Colusa County, CA",Male,80,15,189
+California,"Colusa County, CA",Male,85,0,134
+California,"Contra Costa County, CA",Female,0,16,30508
+California,"Contra Costa County, CA",Female,5,0,34471
+California,"Contra Costa County, CA",Female,10,0,37951
+California,"Contra Costa County, CA",Female,15,11,36851
+California,"Contra Costa County, CA",Female,20,10,32293
+California,"Contra Costa County, CA",Female,25,21,33752
+California,"Contra Costa County, CA",Female,30,28,37962
+California,"Contra Costa County, CA",Female,35,39,41247
+California,"Contra Costa County, CA",Female,40,57,41240
+California,"Contra Costa County, CA",Female,45,46,39434
+California,"Contra Costa County, CA",Female,50,96,40451
+California,"Contra Costa County, CA",Female,55,164,40420
+California,"Contra Costa County, CA",Female,60,219,37687
+California,"Contra Costa County, CA",Female,65,292,33103
+California,"Contra Costa County, CA",Female,70,383,28567
+California,"Contra Costa County, CA",Female,75,503,19583
+California,"Contra Costa County, CA",Female,80,573,12375
+California,"Contra Costa County, CA",Female,85,652,13551
+California,"Contra Costa County, CA",Male,0,19,31723
+California,"Contra Costa County, CA",Male,5,0,35744
+California,"Contra Costa County, CA",Male,10,0,39476
+California,"Contra Costa County, CA",Male,15,24,38568
+California,"Contra Costa County, CA",Male,20,28,33284
+California,"Contra Costa County, CA",Male,25,61,34665
+California,"Contra Costa County, CA",Male,30,80,37628
+California,"Contra Costa County, CA",Male,35,81,40697
+California,"Contra Costa County, CA",Male,40,114,40304
+California,"Contra Costa County, CA",Male,45,111,38320
+California,"Contra Costa County, CA",Male,50,152,40247
+California,"Contra Costa County, CA",Male,55,230,39530
+California,"Contra Costa County, CA",Male,60,322,35974
+California,"Contra Costa County, CA",Male,65,433,29430
+California,"Contra Costa County, CA",Male,70,481,23893
+California,"Contra Costa County, CA",Male,75,592,15549
+California,"Contra Costa County, CA",Male,80,589,9533
+California,"Contra Costa County, CA",Male,85,568,7930
+California,"Del Norte County, CA",Female,0,0,676
+California,"Del Norte County, CA",Female,5,0,815
+California,"Del Norte County, CA",Female,10,0,857
+California,"Del Norte County, CA",Female,15,0,691
+California,"Del Norte County, CA",Female,20,0,605
+California,"Del Norte County, CA",Female,25,0,662
+California,"Del Norte County, CA",Female,30,0,708
+California,"Del Norte County, CA",Female,35,0,815
+California,"Del Norte County, CA",Female,40,0,770
+California,"Del Norte County, CA",Female,45,0,650
+California,"Del Norte County, CA",Female,50,0,681
+California,"Del Norte County, CA",Female,55,0,900
+California,"Del Norte County, CA",Female,60,11,1027
+California,"Del Norte County, CA",Female,65,15,984
+California,"Del Norte County, CA",Female,70,24,762
+California,"Del Norte County, CA",Female,75,19,474
+California,"Del Norte County, CA",Female,80,19,317
+California,"Del Norte County, CA",Female,85,13,308
+California,"Del Norte County, CA",Male,0,0,728
+California,"Del Norte County, CA",Male,5,0,854
+California,"Del Norte County, CA",Male,10,0,903
+California,"Del Norte County, CA",Male,15,0,796
+California,"Del Norte County, CA",Male,20,0,861
+California,"Del Norte County, CA",Male,25,0,1096
+California,"Del Norte County, CA",Male,30,0,1204
+California,"Del Norte County, CA",Male,35,0,1252
+California,"Del Norte County, CA",Male,40,0,1089
+California,"Del Norte County, CA",Male,45,0,863
+California,"Del Norte County, CA",Male,50,0,818
+California,"Del Norte County, CA",Male,55,18,894
+California,"Del Norte County, CA",Male,60,16,975
+California,"Del Norte County, CA",Male,65,25,908
+California,"Del Norte County, CA",Male,70,32,781
+California,"Del Norte County, CA",Male,75,32,415
+California,"Del Norte County, CA",Male,80,19,251
+California,"Del Norte County, CA",Male,85,25,194
+California,"El Dorado County, CA",Female,0,0,4247
+California,"El Dorado County, CA",Female,5,0,5016
+California,"El Dorado County, CA",Female,10,0,5733
+California,"El Dorado County, CA",Female,15,0,5431
+California,"El Dorado County, CA",Female,20,0,4463
+California,"El Dorado County, CA",Female,25,0,4485
+California,"El Dorado County, CA",Female,30,0,5200
+California,"El Dorado County, CA",Female,35,0,5845
+California,"El Dorado County, CA",Female,40,0,5922
+California,"El Dorado County, CA",Female,45,11,5422
+California,"El Dorado County, CA",Female,50,21,6430
+California,"El Dorado County, CA",Female,55,16,7477
+California,"El Dorado County, CA",Female,60,43,8485
+California,"El Dorado County, CA",Female,65,57,7585
+California,"El Dorado County, CA",Female,70,79,6322
+California,"El Dorado County, CA",Female,75,96,3994
+California,"El Dorado County, CA",Female,80,98,2365
+California,"El Dorado County, CA",Female,85,116,2396
+California,"El Dorado County, CA",Male,0,0,4426
+California,"El Dorado County, CA",Male,5,0,5255
+California,"El Dorado County, CA",Male,10,0,5998
+California,"El Dorado County, CA",Male,15,0,5832
+California,"El Dorado County, CA",Male,20,0,4661
+California,"El Dorado County, CA",Male,25,0,4845
+California,"El Dorado County, CA",Male,30,17,5334
+California,"El Dorado County, CA",Male,35,18,5963
+California,"El Dorado County, CA",Male,40,17,6022
+California,"El Dorado County, CA",Male,45,19,5638
+California,"El Dorado County, CA",Male,50,35,6417
+California,"El Dorado County, CA",Male,55,49,7338
+California,"El Dorado County, CA",Male,60,72,8046
+California,"El Dorado County, CA",Male,65,107,7334
+California,"El Dorado County, CA",Male,70,126,6204
+California,"El Dorado County, CA",Male,75,139,3717
+California,"El Dorado County, CA",Male,80,147,2163
+California,"El Dorado County, CA",Male,85,128,1693
+California,"Fresno County, CA",Female,0,25,35025
+California,"Fresno County, CA",Female,5,0,39276
+California,"Fresno County, CA",Female,10,0,41067
+California,"Fresno County, CA",Female,15,16,37083
+California,"Fresno County, CA",Female,20,24,33937
+California,"Fresno County, CA",Female,25,25,36776
+California,"Fresno County, CA",Female,30,49,37876
+California,"Fresno County, CA",Female,35,49,34462
+California,"Fresno County, CA",Female,40,73,31466
+California,"Fresno County, CA",Female,45,93,27593
+California,"Fresno County, CA",Female,50,113,27135
+California,"Fresno County, CA",Female,55,143,27269
+California,"Fresno County, CA",Female,60,280,26031
+California,"Fresno County, CA",Female,65,324,22448
+California,"Fresno County, CA",Female,70,398,18651
+California,"Fresno County, CA",Female,75,447,12338
+California,"Fresno County, CA",Female,80,489,8248
+California,"Fresno County, CA",Female,85,488,8753
+California,"Fresno County, CA",Male,0,41,36408
+California,"Fresno County, CA",Male,5,0,41125
+California,"Fresno County, CA",Male,10,0,43049
+California,"Fresno County, CA",Male,15,31,38978
+California,"Fresno County, CA",Male,20,53,34885
+California,"Fresno County, CA",Male,25,81,38206
+California,"Fresno County, CA",Male,30,92,39465
+California,"Fresno County, CA",Male,35,118,36413
+California,"Fresno County, CA",Male,40,126,32442
+California,"Fresno County, CA",Male,45,140,28553
+California,"Fresno County, CA",Male,50,184,27787
+California,"Fresno County, CA",Male,55,309,27031
+California,"Fresno County, CA",Male,60,417,25063
+California,"Fresno County, CA",Male,65,468,20453
+California,"Fresno County, CA",Male,70,524,16415
+California,"Fresno County, CA",Male,75,515,10222
+California,"Fresno County, CA",Male,80,505,6072
+California,"Fresno County, CA",Male,85,491,5102
+California,"Glenn County, CA",Female,0,0,914
+California,"Glenn County, CA",Female,5,0,1010
+California,"Glenn County, CA",Female,10,0,1108
+California,"Glenn County, CA",Female,15,0,998
+California,"Glenn County, CA",Female,20,0,884
+California,"Glenn County, CA",Female,25,0,869
+California,"Glenn County, CA",Female,30,0,901
+California,"Glenn County, CA",Female,35,0,870
+California,"Glenn County, CA",Female,40,0,804
+California,"Glenn County, CA",Female,45,0,754
+California,"Glenn County, CA",Female,50,0,752
+California,"Glenn County, CA",Female,55,0,867
+California,"Glenn County, CA",Female,60,0,880
+California,"Glenn County, CA",Female,65,0,801
+California,"Glenn County, CA",Female,70,20,621
+California,"Glenn County, CA",Female,75,18,434
+California,"Glenn County, CA",Female,80,20,321
+California,"Glenn County, CA",Female,85,15,279
+California,"Glenn County, CA",Male,0,0,985
+California,"Glenn County, CA",Male,5,0,1150
+California,"Glenn County, CA",Male,10,0,1200
+California,"Glenn County, CA",Male,15,0,1072
+California,"Glenn County, CA",Male,20,0,935
+California,"Glenn County, CA",Male,25,0,914
+California,"Glenn County, CA",Male,30,0,949
+California,"Glenn County, CA",Male,35,0,925
+California,"Glenn County, CA",Male,40,0,869
+California,"Glenn County, CA",Male,45,0,753
+California,"Glenn County, CA",Male,50,0,788
+California,"Glenn County, CA",Male,55,10,880
+California,"Glenn County, CA",Male,60,17,901
+California,"Glenn County, CA",Male,65,19,822
+California,"Glenn County, CA",Male,70,19,629
+California,"Glenn County, CA",Male,75,26,427
+California,"Glenn County, CA",Male,80,24,273
+California,"Glenn County, CA",Male,85,18,179
+California,"Humboldt County, CA",Female,0,0,3235
+California,"Humboldt County, CA",Female,5,0,3529
+California,"Humboldt County, CA",Female,10,0,3723
+California,"Humboldt County, CA",Female,15,0,3947
+California,"Humboldt County, CA",Female,20,0,6188
+California,"Humboldt County, CA",Female,25,0,4487
+California,"Humboldt County, CA",Female,30,0,4241
+California,"Humboldt County, CA",Female,35,0,4389
+California,"Humboldt County, CA",Female,40,10,4464
+California,"Humboldt County, CA",Female,45,12,3648
+California,"Humboldt County, CA",Female,50,20,3437
+California,"Humboldt County, CA",Female,55,37,3930
+California,"Humboldt County, CA",Female,60,59,4715
+California,"Humboldt County, CA",Female,65,65,4781
+California,"Humboldt County, CA",Female,70,96,4102
+California,"Humboldt County, CA",Female,75,76,2284
+California,"Humboldt County, CA",Female,80,76,1390
+California,"Humboldt County, CA",Female,85,107,1519
+California,"Humboldt County, CA",Male,0,0,3322
+California,"Humboldt County, CA",Male,5,0,3749
+California,"Humboldt County, CA",Male,10,0,3773
+California,"Humboldt County, CA",Male,15,0,4114
+California,"Humboldt County, CA",Male,20,0,5893
+California,"Humboldt County, CA",Male,25,17,4553
+California,"Humboldt County, CA",Male,30,20,4279
+California,"Humboldt County, CA",Male,35,23,4508
+California,"Humboldt County, CA",Male,40,26,4760
+California,"Humboldt County, CA",Male,45,26,4096
+California,"Humboldt County, CA",Male,50,36,3799
+California,"Humboldt County, CA",Male,55,54,3738
+California,"Humboldt County, CA",Male,60,76,4273
+California,"Humboldt County, CA",Male,65,93,4213
+California,"Humboldt County, CA",Male,70,126,3784
+California,"Humboldt County, CA",Male,75,125,2027
+California,"Humboldt County, CA",Male,80,94,1156
+California,"Humboldt County, CA",Male,85,80,851
+California,"Imperial County, CA",Female,0,0,6386
+California,"Imperial County, CA",Female,5,0,7427
+California,"Imperial County, CA",Female,10,0,7166
+California,"Imperial County, CA",Female,15,0,6747
+California,"Imperial County, CA",Female,20,0,5642
+California,"Imperial County, CA",Female,25,0,5843
+California,"Imperial County, CA",Female,30,0,5754
+California,"Imperial County, CA",Female,35,0,5427
+California,"Imperial County, CA",Female,40,0,4889
+California,"Imperial County, CA",Female,45,12,4670
+California,"Imperial County, CA",Female,50,12,4825
+California,"Imperial County, CA",Female,55,35,4797
+California,"Imperial County, CA",Female,60,31,4571
+California,"Imperial County, CA",Female,65,58,4130
+California,"Imperial County, CA",Female,70,71,3358
+California,"Imperial County, CA",Female,75,76,2349
+California,"Imperial County, CA",Female,80,94,1661
+California,"Imperial County, CA",Female,85,112,1714
+California,"Imperial County, CA",Male,0,0,6427
+California,"Imperial County, CA",Male,5,0,7638
+California,"Imperial County, CA",Male,10,0,7478
+California,"Imperial County, CA",Male,15,0,7012
+California,"Imperial County, CA",Male,20,0,6822
+California,"Imperial County, CA",Male,25,20,7133
+California,"Imperial County, CA",Male,30,18,7408
+California,"Imperial County, CA",Male,35,16,6650
+California,"Imperial County, CA",Male,40,28,5746
+California,"Imperial County, CA",Male,45,22,4845
+California,"Imperial County, CA",Male,50,39,4851
+California,"Imperial County, CA",Male,55,62,4534
+California,"Imperial County, CA",Male,60,73,4366
+California,"Imperial County, CA",Male,65,90,3700
+California,"Imperial County, CA",Male,70,102,2906
+California,"Imperial County, CA",Male,75,80,1877
+California,"Imperial County, CA",Male,80,84,1251
+California,"Imperial County, CA",Male,85,86,1138
+California,"Inyo County, CA",Female,0,0,490
+California,"Inyo County, CA",Female,5,0,565
+California,"Inyo County, CA",Female,10,0,545
+California,"Inyo County, CA",Female,15,0,469
+California,"Inyo County, CA",Female,20,0,391
+California,"Inyo County, CA",Female,25,0,484
+California,"Inyo County, CA",Female,30,0,529
+California,"Inyo County, CA",Female,35,0,642
+California,"Inyo County, CA",Female,40,0,508
+California,"Inyo County, CA",Female,45,0,471
+California,"Inyo County, CA",Female,50,0,509
+California,"Inyo County, CA",Female,55,0,623
+California,"Inyo County, CA",Female,60,0,773
+California,"Inyo County, CA",Female,65,0,750
+California,"Inyo County, CA",Female,70,13,577
+California,"Inyo County, CA",Female,75,0,419
+California,"Inyo County, CA",Female,80,13,274
+California,"Inyo County, CA",Female,85,14,328
+California,"Inyo County, CA",Male,0,0,473
+California,"Inyo County, CA",Male,5,0,560
+California,"Inyo County, CA",Male,10,0,586
+California,"Inyo County, CA",Male,15,0,571
+California,"Inyo County, CA",Male,20,0,443
+California,"Inyo County, CA",Male,25,0,452
+California,"Inyo County, CA",Male,30,0,537
+California,"Inyo County, CA",Male,35,0,681
+California,"Inyo County, CA",Male,40,0,605
+California,"Inyo County, CA",Male,45,0,526
+California,"Inyo County, CA",Male,50,0,522
+California,"Inyo County, CA",Male,55,0,626
+California,"Inyo County, CA",Male,60,12,765
+California,"Inyo County, CA",Male,65,16,731
+California,"Inyo County, CA",Male,70,19,611
+California,"Inyo County, CA",Male,75,21,397
+California,"Inyo County, CA",Male,80,15,262
+California,"Inyo County, CA",Male,85,23,229
+California,"Kern County, CA",Female,0,42,32041
+California,"Kern County, CA",Female,5,0,36073
+California,"Kern County, CA",Female,10,0,38627
+California,"Kern County, CA",Female,15,15,34458
+California,"Kern County, CA",Female,20,26,29970
+California,"Kern County, CA",Female,25,28,32989
+California,"Kern County, CA",Female,30,40,33077
+California,"Kern County, CA",Female,35,57,30308
+California,"Kern County, CA",Female,40,66,27242
+California,"Kern County, CA",Female,45,90,24576
+California,"Kern County, CA",Female,50,121,24322
+California,"Kern County, CA",Female,55,183,24309
+California,"Kern County, CA",Female,60,255,23256
+California,"Kern County, CA",Female,65,347,18989
+California,"Kern County, CA",Female,70,407,15055
+California,"Kern County, CA",Female,75,396,10009
+California,"Kern County, CA",Female,80,409,6385
+California,"Kern County, CA",Female,85,415,5908
+California,"Kern County, CA",Male,0,49,33456
+California,"Kern County, CA",Male,5,0,37734
+California,"Kern County, CA",Male,10,0,40044
+California,"Kern County, CA",Male,15,39,36161
+California,"Kern County, CA",Male,20,72,33410
+California,"Kern County, CA",Male,25,94,36306
+California,"Kern County, CA",Male,30,121,36653
+California,"Kern County, CA",Male,35,118,33844
+California,"Kern County, CA",Male,40,142,29957
+California,"Kern County, CA",Male,45,158,26084
+California,"Kern County, CA",Male,50,205,24812
+California,"Kern County, CA",Male,55,296,24270
+California,"Kern County, CA",Male,60,412,23323
+California,"Kern County, CA",Male,65,490,18444
+California,"Kern County, CA",Male,70,497,13468
+California,"Kern County, CA",Male,75,479,8406
+California,"Kern County, CA",Male,80,438,5163
+California,"Kern County, CA",Male,85,310,3580
+California,"Kings County, CA",Female,0,0,5545
+California,"Kings County, CA",Female,5,0,5677
+California,"Kings County, CA",Female,10,0,6010
+California,"Kings County, CA",Female,15,0,5105
+California,"Kings County, CA",Female,20,0,5042
+California,"Kings County, CA",Female,25,0,5288
+California,"Kings County, CA",Female,30,0,5190
+California,"Kings County, CA",Female,35,0,4793
+California,"Kings County, CA",Female,40,15,4103
+California,"Kings County, CA",Female,45,0,3544
+California,"Kings County, CA",Female,50,17,3255
+California,"Kings County, CA",Female,55,23,3543
+California,"Kings County, CA",Female,60,23,3221
+California,"Kings County, CA",Female,65,60,2601
+California,"Kings County, CA",Female,70,52,2263
+California,"Kings County, CA",Female,75,63,1510
+California,"Kings County, CA",Female,80,63,1093
+California,"Kings County, CA",Female,85,81,1017
+California,"Kings County, CA",Male,0,0,5602
+California,"Kings County, CA",Male,5,0,5882
+California,"Kings County, CA",Male,10,0,6190
+California,"Kings County, CA",Male,15,0,5523
+California,"Kings County, CA",Male,20,11,7005
+California,"Kings County, CA",Male,25,15,7434
+California,"Kings County, CA",Male,30,10,7357
+California,"Kings County, CA",Male,35,11,7152
+California,"Kings County, CA",Male,40,12,6186
+California,"Kings County, CA",Male,45,17,5447
+California,"Kings County, CA",Male,50,30,4765
+California,"Kings County, CA",Male,55,37,4109
+California,"Kings County, CA",Male,60,51,3574
+California,"Kings County, CA",Male,65,72,2867
+California,"Kings County, CA",Male,70,68,2022
+California,"Kings County, CA",Male,75,72,1324
+California,"Kings County, CA",Male,80,72,839
+California,"Kings County, CA",Male,85,37,697
+California,"Lake County, CA",Female,0,0,1970
+California,"Lake County, CA",Female,5,0,2122
+California,"Lake County, CA",Female,10,0,2102
+California,"Lake County, CA",Female,15,0,1782
+California,"Lake County, CA",Female,20,0,1503
+California,"Lake County, CA",Female,25,0,1685
+California,"Lake County, CA",Female,30,0,2050
+California,"Lake County, CA",Female,35,0,1973
+California,"Lake County, CA",Female,40,0,1866
+California,"Lake County, CA",Female,45,10,1711
+California,"Lake County, CA",Female,50,13,2091
+California,"Lake County, CA",Female,55,20,2448
+California,"Lake County, CA",Female,60,38,2794
+California,"Lake County, CA",Female,65,49,2713
+California,"Lake County, CA",Female,70,73,2250
+California,"Lake County, CA",Female,75,64,1515
+California,"Lake County, CA",Female,80,54,904
+California,"Lake County, CA",Female,85,57,815
+California,"Lake County, CA",Male,0,0,2037
+California,"Lake County, CA",Male,5,0,2112
+California,"Lake County, CA",Male,10,0,2193
+California,"Lake County, CA",Male,15,0,1963
+California,"Lake County, CA",Male,20,0,1632
+California,"Lake County, CA",Male,25,12,1815
+California,"Lake County, CA",Male,30,0,2101
+California,"Lake County, CA",Male,35,11,2129
+California,"Lake County, CA",Male,40,16,1944
+California,"Lake County, CA",Male,45,0,1700
+California,"Lake County, CA",Male,50,16,1925
+California,"Lake County, CA",Male,55,32,2314
+California,"Lake County, CA",Male,60,68,2663
+California,"Lake County, CA",Male,65,68,2494
+California,"Lake County, CA",Male,70,85,2424
+California,"Lake County, CA",Male,75,84,1458
+California,"Lake County, CA",Male,80,62,815
+California,"Lake County, CA",Male,85,41,632
+California,"Lassen County, CA",Female,0,0,734
+California,"Lassen County, CA",Female,5,0,816
+California,"Lassen County, CA",Female,10,0,804
+California,"Lassen County, CA",Female,15,0,651
+California,"Lassen County, CA",Female,20,0,544
+California,"Lassen County, CA",Female,25,0,750
+California,"Lassen County, CA",Female,30,0,778
+California,"Lassen County, CA",Female,35,0,737
+California,"Lassen County, CA",Female,40,0,650
+California,"Lassen County, CA",Female,45,0,640
+California,"Lassen County, CA",Female,50,0,693
+California,"Lassen County, CA",Female,55,12,769
+California,"Lassen County, CA",Female,60,13,836
+California,"Lassen County, CA",Female,65,16,837
+California,"Lassen County, CA",Female,70,14,722
+California,"Lassen County, CA",Female,75,21,429
+California,"Lassen County, CA",Female,80,11,273
+California,"Lassen County, CA",Female,85,21,286
+California,"Lassen County, CA",Male,0,0,799
+California,"Lassen County, CA",Male,5,0,837
+California,"Lassen County, CA",Male,10,0,785
+California,"Lassen County, CA",Male,15,0,841
+California,"Lassen County, CA",Male,20,0,1750
+California,"Lassen County, CA",Male,25,0,2298
+California,"Lassen County, CA",Male,30,0,2211
+California,"Lassen County, CA",Male,35,0,1914
+California,"Lassen County, CA",Male,40,0,1556
+California,"Lassen County, CA",Male,45,0,1435
+California,"Lassen County, CA",Male,50,11,1129
+California,"Lassen County, CA",Male,55,17,983
+California,"Lassen County, CA",Male,60,17,941
+California,"Lassen County, CA",Male,65,17,819
+California,"Lassen County, CA",Male,70,19,741
+California,"Lassen County, CA",Male,75,26,439
+California,"Lassen County, CA",Male,80,18,234
+California,"Lassen County, CA",Male,85,16,224
+California,"Los Angeles County, CA",Female,0,199,251173
+California,"Los Angeles County, CA",Female,5,19,279281
+California,"Los Angeles County, CA",Female,10,22,292775
+California,"Los Angeles County, CA",Female,15,70,292144
+California,"Los Angeles County, CA",Female,20,147,307773
+California,"Los Angeles County, CA",Female,25,203,375803
+California,"Los Angeles County, CA",Female,30,285,393150
+California,"Los Angeles County, CA",Female,35,338,349902
+California,"Los Angeles County, CA",Female,40,437,327160
+California,"Los Angeles County, CA",Female,45,629,320691
+California,"Los Angeles County, CA",Female,50,944,328999
+California,"Los Angeles County, CA",Female,55,1382,320410
+California,"Los Angeles County, CA",Female,60,1938,299755
+California,"Los Angeles County, CA",Female,65,2570,253427
+California,"Los Angeles County, CA",Female,70,3185,205465
+California,"Los Angeles County, CA",Female,75,3740,140028
+California,"Los Angeles County, CA",Female,80,4530,97482
+California,"Los Angeles County, CA",Female,85,5296,112106
+California,"Los Angeles County, CA",Male,0,243,261143
+California,"Los Angeles County, CA",Male,5,22,295235
+California,"Los Angeles County, CA",Male,10,38,309558
+California,"Los Angeles County, CA",Male,15,175,304644
+California,"Los Angeles County, CA",Male,20,437,312141
+California,"Los Angeles County, CA",Male,25,665,380936
+California,"Los Angeles County, CA",Male,30,896,409850
+California,"Los Angeles County, CA",Male,35,918,367440
+California,"Los Angeles County, CA",Male,40,1077,334232
+California,"Los Angeles County, CA",Male,45,1295,318979
+California,"Los Angeles County, CA",Male,50,1838,331476
+California,"Los Angeles County, CA",Male,55,2443,315608
+California,"Los Angeles County, CA",Male,60,3487,284732
+California,"Los Angeles County, CA",Male,65,3935,226439
+California,"Los Angeles County, CA",Male,70,4296,170039
+California,"Los Angeles County, CA",Male,75,4367,107902
+California,"Los Angeles County, CA",Male,80,4448,68833
+California,"Los Angeles County, CA",Male,85,4389,62751
+California,"Madera County, CA",Female,0,0,5177
+California,"Madera County, CA",Female,5,0,6013
+California,"Madera County, CA",Female,10,0,6353
+California,"Madera County, CA",Female,15,0,5834
+California,"Madera County, CA",Female,20,0,5320
+California,"Madera County, CA",Female,25,0,5717
+California,"Madera County, CA",Female,30,0,5723
+California,"Madera County, CA",Female,35,0,5613
+California,"Madera County, CA",Female,40,0,5402
+California,"Madera County, CA",Female,45,10,4895
+California,"Madera County, CA",Female,50,15,4455
+California,"Madera County, CA",Female,55,37,4310
+California,"Madera County, CA",Female,60,37,4381
+California,"Madera County, CA",Female,65,62,3942
+California,"Madera County, CA",Female,70,59,3292
+California,"Madera County, CA",Female,75,57,2102
+California,"Madera County, CA",Female,80,83,1352
+California,"Madera County, CA",Female,85,87,1226
+California,"Madera County, CA",Male,0,11,5621
+California,"Madera County, CA",Male,5,0,6291
+California,"Madera County, CA",Male,10,0,6600
+California,"Madera County, CA",Male,15,0,5940
+California,"Madera County, CA",Male,20,0,5162
+California,"Madera County, CA",Male,25,0,5089
+California,"Madera County, CA",Male,30,18,5347
+California,"Madera County, CA",Male,35,16,5150
+California,"Madera County, CA",Male,40,21,4739
+California,"Madera County, CA",Male,45,31,4222
+California,"Madera County, CA",Male,50,33,4314
+California,"Madera County, CA",Male,55,43,4341
+California,"Madera County, CA",Male,60,62,4205
+California,"Madera County, CA",Male,65,77,3749
+California,"Madera County, CA",Male,70,95,3146
+California,"Madera County, CA",Male,75,122,1879
+California,"Madera County, CA",Male,80,102,1176
+California,"Madera County, CA",Male,85,88,888
+California,"Marin County, CA",Female,0,0,5533
+California,"Marin County, CA",Female,5,0,6646
+California,"Marin County, CA",Female,10,0,7682
+California,"Marin County, CA",Female,15,0,7969
+California,"Marin County, CA",Female,20,0,6025
+California,"Marin County, CA",Female,25,0,5066
+California,"Marin County, CA",Female,30,0,5739
+California,"Marin County, CA",Female,35,0,7147
+California,"Marin County, CA",Female,40,0,8002
+California,"Marin County, CA",Female,45,0,8804
+California,"Marin County, CA",Female,50,14,10424
+California,"Marin County, CA",Female,55,24,10049
+California,"Marin County, CA",Female,60,38,10006
+California,"Marin County, CA",Female,65,55,9584
+California,"Marin County, CA",Female,70,88,8927
+California,"Marin County, CA",Female,75,123,6326
+California,"Marin County, CA",Female,80,138,3811
+California,"Marin County, CA",Female,85,173,4438
+California,"Marin County, CA",Male,0,0,5870
+California,"Marin County, CA",Male,5,0,6811
+California,"Marin County, CA",Male,10,0,8083
+California,"Marin County, CA",Male,15,0,8330
+California,"Marin County, CA",Male,20,0,6100
+California,"Marin County, CA",Male,25,0,5510
+California,"Marin County, CA",Male,30,14,6152
+California,"Marin County, CA",Male,35,0,7447
+California,"Marin County, CA",Male,40,13,8006
+California,"Marin County, CA",Male,45,24,8708
+California,"Marin County, CA",Male,50,31,10308
+California,"Marin County, CA",Male,55,38,9708
+California,"Marin County, CA",Male,60,91,9122
+California,"Marin County, CA",Male,65,77,8313
+California,"Marin County, CA",Male,70,125,7451
+California,"Marin County, CA",Male,75,160,5357
+California,"Marin County, CA",Male,80,159,3103
+California,"Marin County, CA",Male,85,151,2721
+California,"Mariposa County, CA",Female,0,0,391
+California,"Mariposa County, CA",Female,5,0,424
+California,"Mariposa County, CA",Female,10,0,431
+California,"Mariposa County, CA",Female,15,0,400
+California,"Mariposa County, CA",Female,20,0,288
+California,"Mariposa County, CA",Female,25,0,419
+California,"Mariposa County, CA",Female,30,0,471
+California,"Mariposa County, CA",Female,35,0,434
+California,"Mariposa County, CA",Female,40,0,410
+California,"Mariposa County, CA",Female,45,0,401
+California,"Mariposa County, CA",Female,50,0,458
+California,"Mariposa County, CA",Female,55,0,618
+California,"Mariposa County, CA",Female,60,0,837
+California,"Mariposa County, CA",Female,65,12,775
+California,"Mariposa County, CA",Female,70,10,707
+California,"Mariposa County, CA",Female,75,10,475
+California,"Mariposa County, CA",Female,80,10,294
+California,"Mariposa County, CA",Female,85,14,282
+California,"Mariposa County, CA",Male,0,0,383
+California,"Mariposa County, CA",Male,5,0,429
+California,"Mariposa County, CA",Male,10,0,432
+California,"Mariposa County, CA",Male,15,0,399
+California,"Mariposa County, CA",Male,20,0,341
+California,"Mariposa County, CA",Male,25,0,406
+California,"Mariposa County, CA",Male,30,0,509
+California,"Mariposa County, CA",Male,35,0,506
+California,"Mariposa County, CA",Male,40,0,430
+California,"Mariposa County, CA",Male,45,0,394
+California,"Mariposa County, CA",Male,50,0,453
+California,"Mariposa County, CA",Male,55,0,619
+California,"Mariposa County, CA",Male,60,12,787
+California,"Mariposa County, CA",Male,65,0,773
+California,"Mariposa County, CA",Male,70,19,716
+California,"Mariposa County, CA",Male,75,18,483
+California,"Mariposa County, CA",Male,80,17,326
+California,"Mariposa County, CA",Male,85,19,226
+California,"Mendocino County, CA",Female,0,0,2405
+California,"Mendocino County, CA",Female,5,0,2757
+California,"Mendocino County, CA",Female,10,0,2706
+California,"Mendocino County, CA",Female,15,0,2580
+California,"Mendocino County, CA",Female,20,0,2173
+California,"Mendocino County, CA",Female,25,0,2333
+California,"Mendocino County, CA",Female,30,0,2578
+California,"Mendocino County, CA",Female,35,0,2749
+California,"Mendocino County, CA",Female,40,10,2763
+California,"Mendocino County, CA",Female,45,10,2550
+California,"Mendocino County, CA",Female,50,0,2669
+California,"Mendocino County, CA",Female,55,15,2798
+California,"Mendocino County, CA",Female,60,23,3356
+California,"Mendocino County, CA",Female,65,45,3668
+California,"Mendocino County, CA",Female,70,57,3528
+California,"Mendocino County, CA",Female,75,58,2021
+California,"Mendocino County, CA",Female,80,63,1083
+California,"Mendocino County, CA",Female,85,48,1279
+California,"Mendocino County, CA",Male,0,0,2418
+California,"Mendocino County, CA",Male,5,0,2688
+California,"Mendocino County, CA",Male,10,0,2960
+California,"Mendocino County, CA",Male,15,0,2645
+California,"Mendocino County, CA",Male,20,0,2290
+California,"Mendocino County, CA",Male,25,10,2486
+California,"Mendocino County, CA",Male,30,12,2595
+California,"Mendocino County, CA",Male,35,11,2823
+California,"Mendocino County, CA",Male,40,15,2954
+California,"Mendocino County, CA",Male,45,15,2671
+California,"Mendocino County, CA",Male,50,17,2650
+California,"Mendocino County, CA",Male,55,39,2732
+California,"Mendocino County, CA",Male,60,59,3223
+California,"Mendocino County, CA",Male,65,59,3253
+California,"Mendocino County, CA",Male,70,77,3331
+California,"Mendocino County, CA",Male,75,88,1932
+California,"Mendocino County, CA",Male,80,65,952
+California,"Mendocino County, CA",Male,85,45,722
+California,"Merced County, CA",Female,0,10,10113
+California,"Merced County, CA",Female,5,0,11308
+California,"Merced County, CA",Female,10,0,12023
+California,"Merced County, CA",Female,15,0,11402
+California,"Merced County, CA",Female,20,0,9862
+California,"Merced County, CA",Female,25,0,10029
+California,"Merced County, CA",Female,30,0,9880
+California,"Merced County, CA",Female,35,16,9312
+California,"Merced County, CA",Female,40,22,8544
+California,"Merced County, CA",Female,45,21,8012
+California,"Merced County, CA",Female,50,21,7636
+California,"Merced County, CA",Female,55,39,7419
+California,"Merced County, CA",Female,60,76,6974
+California,"Merced County, CA",Female,65,102,5816
+California,"Merced County, CA",Female,70,94,4619
+California,"Merced County, CA",Female,75,105,3193
+California,"Merced County, CA",Female,80,144,2058
+California,"Merced County, CA",Female,85,138,2160
+California,"Merced County, CA",Male,0,0,10624
+California,"Merced County, CA",Male,5,0,11891
+California,"Merced County, CA",Male,10,0,12791
+California,"Merced County, CA",Male,15,0,11916
+California,"Merced County, CA",Male,20,26,10526
+California,"Merced County, CA",Male,25,29,10955
+California,"Merced County, CA",Male,30,24,10876
+California,"Merced County, CA",Male,35,28,10044
+California,"Merced County, CA",Male,40,24,8840
+California,"Merced County, CA",Male,45,47,7921
+California,"Merced County, CA",Male,50,63,7845
+California,"Merced County, CA",Male,55,76,7641
+California,"Merced County, CA",Male,60,106,6977
+California,"Merced County, CA",Male,65,119,5567
+California,"Merced County, CA",Male,70,126,4267
+California,"Merced County, CA",Male,75,128,2675
+California,"Merced County, CA",Male,80,138,1635
+California,"Merced County, CA",Male,85,113,1259
+California,"Modoc County, CA",Female,0,0,177
+California,"Modoc County, CA",Female,5,0,247
+California,"Modoc County, CA",Female,10,0,252
+California,"Modoc County, CA",Female,15,0,183
+California,"Modoc County, CA",Female,20,0,169
+California,"Modoc County, CA",Female,25,0,215
+California,"Modoc County, CA",Female,30,0,234
+California,"Modoc County, CA",Female,35,0,229
+California,"Modoc County, CA",Female,40,0,202
+California,"Modoc County, CA",Female,45,0,201
+California,"Modoc County, CA",Female,50,0,239
+California,"Modoc County, CA",Female,55,0,337
+California,"Modoc County, CA",Female,60,0,373
+California,"Modoc County, CA",Female,65,0,364
+California,"Modoc County, CA",Female,70,0,344
+California,"Modoc County, CA",Female,75,10,243
+California,"Modoc County, CA",Female,80,11,170
+California,"Modoc County, CA",Female,85,0,139
+California,"Modoc County, CA",Male,0,0,218
+California,"Modoc County, CA",Male,5,0,226
+California,"Modoc County, CA",Male,10,0,249
+California,"Modoc County, CA",Male,15,0,234
+California,"Modoc County, CA",Male,20,0,167
+California,"Modoc County, CA",Male,25,0,214
+California,"Modoc County, CA",Male,30,0,217
+California,"Modoc County, CA",Male,35,0,225
+California,"Modoc County, CA",Male,40,0,208
+California,"Modoc County, CA",Male,45,0,207
+California,"Modoc County, CA",Male,50,0,250
+California,"Modoc County, CA",Male,55,0,285
+California,"Modoc County, CA",Male,60,0,343
+California,"Modoc County, CA",Male,65,10,387
+California,"Modoc County, CA",Male,70,0,383
+California,"Modoc County, CA",Male,75,0,244
+California,"Modoc County, CA",Male,80,12,152
+California,"Modoc County, CA",Male,85,0,114
+California,"Mono County, CA",Female,0,0,271
+California,"Mono County, CA",Female,5,0,306
+California,"Mono County, CA",Female,10,0,347
+California,"Mono County, CA",Female,15,0,336
+California,"Mono County, CA",Female,20,0,371
+California,"Mono County, CA",Female,25,0,413
+California,"Mono County, CA",Female,30,0,513
+California,"Mono County, CA",Female,35,0,463
+California,"Mono County, CA",Female,40,0,392
+California,"Mono County, CA",Female,45,0,376
+California,"Mono County, CA",Female,50,0,377
+California,"Mono County, CA",Female,55,0,448
+California,"Mono County, CA",Female,60,0,463
+California,"Mono County, CA",Female,65,0,412
+California,"Mono County, CA",Female,70,0,304
+California,"Mono County, CA",Female,75,0,168
+California,"Mono County, CA",Female,80,0,104
+California,"Mono County, CA",Female,85,0,105
+California,"Mono County, CA",Male,0,0,309
+California,"Mono County, CA",Male,5,0,329
+California,"Mono County, CA",Male,10,0,310
+California,"Mono County, CA",Male,15,0,349
+California,"Mono County, CA",Male,20,0,450
+California,"Mono County, CA",Male,25,0,574
+California,"Mono County, CA",Male,30,0,533
+California,"Mono County, CA",Male,35,0,484
+California,"Mono County, CA",Male,40,0,434
+California,"Mono County, CA",Male,45,0,440
+California,"Mono County, CA",Male,50,0,498
+California,"Mono County, CA",Male,55,0,530
+California,"Mono County, CA",Male,60,0,595
+California,"Mono County, CA",Male,65,0,474
+California,"Mono County, CA",Male,70,0,377
+California,"Mono County, CA",Male,75,12,216
+California,"Mono County, CA",Male,80,0,103
+California,"Mono County, CA",Male,85,0,97
+California,"Monterey County, CA",Female,0,14,14118
+California,"Monterey County, CA",Female,5,0,15562
+California,"Monterey County, CA",Female,10,0,16345
+California,"Monterey County, CA",Female,15,0,15999
+California,"Monterey County, CA",Female,20,0,14310
+California,"Monterey County, CA",Female,25,0,14384
+California,"Monterey County, CA",Female,30,0,14273
+California,"Monterey County, CA",Female,35,13,14108
+California,"Monterey County, CA",Female,40,15,13277
+California,"Monterey County, CA",Female,45,21,12055
+California,"Monterey County, CA",Female,50,24,12038
+California,"Monterey County, CA",Female,55,50,11873
+California,"Monterey County, CA",Female,60,71,12227
+California,"Monterey County, CA",Female,65,96,10623
+California,"Monterey County, CA",Female,70,118,8927
+California,"Monterey County, CA",Female,75,142,5799
+California,"Monterey County, CA",Female,80,178,3749
+California,"Monterey County, CA",Female,85,220,4807
+California,"Monterey County, CA",Male,0,24,14558
+California,"Monterey County, CA",Male,5,0,16181
+California,"Monterey County, CA",Male,10,0,17179
+California,"Monterey County, CA",Male,15,14,16643
+California,"Monterey County, CA",Male,20,21,15476
+California,"Monterey County, CA",Male,25,31,15329
+California,"Monterey County, CA",Male,30,27,16137
+California,"Monterey County, CA",Male,35,20,16011
+California,"Monterey County, CA",Male,40,44,15105
+California,"Monterey County, CA",Male,45,44,13574
+California,"Monterey County, CA",Male,50,58,13271
+California,"Monterey County, CA",Male,55,98,12314
+California,"Monterey County, CA",Male,60,128,11713
+California,"Monterey County, CA",Male,65,128,10118
+California,"Monterey County, CA",Male,70,154,8189
+California,"Monterey County, CA",Male,75,190,5038
+California,"Monterey County, CA",Male,80,179,3055
+California,"Monterey County, CA",Male,85,190,2793
+California,"Napa County, CA",Female,0,0,3020
+California,"Napa County, CA",Female,5,0,3457
+California,"Napa County, CA",Female,10,0,4021
+California,"Napa County, CA",Female,15,0,4184
+California,"Napa County, CA",Female,20,0,3745
+California,"Napa County, CA",Female,25,0,4092
+California,"Napa County, CA",Female,30,0,4164
+California,"Napa County, CA",Female,35,0,4268
+California,"Napa County, CA",Female,40,0,4303
+California,"Napa County, CA",Female,45,14,4127
+California,"Napa County, CA",Female,50,10,4531
+California,"Napa County, CA",Female,55,18,4598
+California,"Napa County, CA",Female,60,22,4657
+California,"Napa County, CA",Female,65,37,4394
+California,"Napa County, CA",Female,70,43,3855
+California,"Napa County, CA",Female,75,77,2709
+California,"Napa County, CA",Female,80,72,1791
+California,"Napa County, CA",Female,85,107,2111
+California,"Napa County, CA",Male,0,0,3121
+California,"Napa County, CA",Male,5,0,3694
+California,"Napa County, CA",Male,10,0,4275
+California,"Napa County, CA",Male,15,0,4472
+California,"Napa County, CA",Male,20,0,4094
+California,"Napa County, CA",Male,25,0,4252
+California,"Napa County, CA",Male,30,0,4202
+California,"Napa County, CA",Male,35,0,4544
+California,"Napa County, CA",Male,40,0,4521
+California,"Napa County, CA",Male,45,14,4296
+California,"Napa County, CA",Male,50,25,4461
+California,"Napa County, CA",Male,55,21,4633
+California,"Napa County, CA",Male,60,52,4516
+California,"Napa County, CA",Male,65,47,3982
+California,"Napa County, CA",Male,70,73,3643
+California,"Napa County, CA",Male,75,105,2463
+California,"Napa County, CA",Male,80,95,1682
+California,"Napa County, CA",Male,85,94,1387
+California,"Nevada County, CA",Female,0,0,2054
+California,"Nevada County, CA",Female,5,0,2295
+California,"Nevada County, CA",Female,10,0,2481
+California,"Nevada County, CA",Female,15,0,2393
+California,"Nevada County, CA",Female,20,0,2078
+California,"Nevada County, CA",Female,25,0,2216
+California,"Nevada County, CA",Female,30,0,2812
+California,"Nevada County, CA",Female,35,0,3045
+California,"Nevada County, CA",Female,40,0,3079
+California,"Nevada County, CA",Female,45,0,2619
+California,"Nevada County, CA",Female,50,0,3022
+California,"Nevada County, CA",Female,55,19,3828
+California,"Nevada County, CA",Female,60,23,4790
+California,"Nevada County, CA",Female,65,29,4946
+California,"Nevada County, CA",Female,70,56,4428
+California,"Nevada County, CA",Female,75,71,2721
+California,"Nevada County, CA",Female,80,84,1625
+California,"Nevada County, CA",Female,85,74,1891
+California,"Nevada County, CA",Male,0,0,2223
+California,"Nevada County, CA",Male,5,0,2496
+California,"Nevada County, CA",Male,10,0,2732
+California,"Nevada County, CA",Male,15,0,2541
+California,"Nevada County, CA",Male,20,0,2172
+California,"Nevada County, CA",Male,25,0,2422
+California,"Nevada County, CA",Male,30,0,2758
+California,"Nevada County, CA",Male,35,10,3074
+California,"Nevada County, CA",Male,40,0,3263
+California,"Nevada County, CA",Male,45,16,2907
+California,"Nevada County, CA",Male,50,20,3030
+California,"Nevada County, CA",Male,55,27,3460
+California,"Nevada County, CA",Male,60,42,4122
+California,"Nevada County, CA",Male,65,48,4462
+California,"Nevada County, CA",Male,70,75,4294
+California,"Nevada County, CA",Male,75,86,2551
+California,"Nevada County, CA",Male,80,85,1522
+California,"Nevada County, CA",Male,85,75,1165
+California,"Orange County, CA",Female,0,55,82776
+California,"Orange County, CA",Female,5,0,90219
+California,"Orange County, CA",Female,10,0,95990
+California,"Orange County, CA",Female,15,15,99808
+California,"Orange County, CA",Female,20,35,98366
+California,"Orange County, CA",Female,25,51,110488
+California,"Orange County, CA",Female,30,66,110594
+California,"Orange County, CA",Female,35,91,104677
+California,"Orange County, CA",Female,40,114,101450
+California,"Orange County, CA",Female,45,144,104739
+California,"Orange County, CA",Female,50,241,112177
+California,"Orange County, CA",Female,55,361,108545
+California,"Orange County, CA",Female,60,527,100183
+California,"Orange County, CA",Female,65,632,83896
+California,"Orange County, CA",Female,70,902,69986
+California,"Orange County, CA",Female,75,1241,49626
+California,"Orange County, CA",Female,80,1515,33582
+California,"Orange County, CA",Female,85,1880,36387
+California,"Orange County, CA",Male,0,70,87136
+California,"Orange County, CA",Male,5,10,94361
+California,"Orange County, CA",Male,10,10,101398
+California,"Orange County, CA",Male,15,47,103384
+California,"Orange County, CA",Male,20,91,99559
+California,"Orange County, CA",Male,25,175,114579
+California,"Orange County, CA",Male,30,221,115842
+California,"Orange County, CA",Male,35,223,108578
+California,"Orange County, CA",Male,40,250,100659
+California,"Orange County, CA",Male,45,309,100481
+California,"Orange County, CA",Male,50,464,110864
+California,"Orange County, CA",Male,55,649,108311
+California,"Orange County, CA",Male,60,917,98368
+California,"Orange County, CA",Male,65,1038,76372
+California,"Orange County, CA",Male,70,1194,59369
+California,"Orange County, CA",Male,75,1467,40019
+California,"Orange County, CA",Male,80,1606,25639
+California,"Orange County, CA",Male,85,1640,22203
+California,"Placer County, CA",Female,0,0,9962
+California,"Placer County, CA",Female,5,0,12350
+California,"Placer County, CA",Female,10,0,13616
+California,"Placer County, CA",Female,15,0,12525
+California,"Placer County, CA",Female,20,0,10228
+California,"Placer County, CA",Female,25,0,10384
+California,"Placer County, CA",Female,30,10,11861
+California,"Placer County, CA",Female,35,0,14126
+California,"Placer County, CA",Female,40,16,14131
+California,"Placer County, CA",Female,45,19,13049
+California,"Placer County, CA",Female,50,31,13823
+California,"Placer County, CA",Female,55,57,13891
+California,"Placer County, CA",Female,60,77,14231
+California,"Placer County, CA",Female,65,108,13266
+California,"Placer County, CA",Female,70,167,12296
+California,"Placer County, CA",Female,75,241,8738
+California,"Placer County, CA",Female,80,311,5647
+California,"Placer County, CA",Female,85,337,5885
+California,"Placer County, CA",Male,0,0,10715
+California,"Placer County, CA",Male,5,0,12867
+California,"Placer County, CA",Male,10,0,14143
+California,"Placer County, CA",Male,15,0,13470
+California,"Placer County, CA",Male,20,0,10666
+California,"Placer County, CA",Male,25,22,10722
+California,"Placer County, CA",Male,30,31,11912
+California,"Placer County, CA",Male,35,29,13745
+California,"Placer County, CA",Male,40,31,14461
+California,"Placer County, CA",Male,45,38,13034
+California,"Placer County, CA",Male,50,56,13639
+California,"Placer County, CA",Male,55,72,13412
+California,"Placer County, CA",Male,60,142,13195
+California,"Placer County, CA",Male,65,161,11445
+California,"Placer County, CA",Male,70,222,10533
+California,"Placer County, CA",Male,75,274,7001
+California,"Placer County, CA",Male,80,320,4408
+California,"Placer County, CA",Male,85,306,3670
+California,"Plumas County, CA",Female,0,0,433
+California,"Plumas County, CA",Female,5,0,502
+California,"Plumas County, CA",Female,10,0,473
+California,"Plumas County, CA",Female,15,0,466
+California,"Plumas County, CA",Female,20,0,332
+California,"Plumas County, CA",Female,25,0,458
+California,"Plumas County, CA",Female,30,0,522
+California,"Plumas County, CA",Female,35,0,547
+California,"Plumas County, CA",Female,40,0,535
+California,"Plumas County, CA",Female,45,0,433
+California,"Plumas County, CA",Female,50,0,499
+California,"Plumas County, CA",Female,55,0,760
+California,"Plumas County, CA",Female,60,0,994
+California,"Plumas County, CA",Female,65,12,1042
+California,"Plumas County, CA",Female,70,0,846
+California,"Plumas County, CA",Female,75,11,519
+California,"Plumas County, CA",Female,80,13,314
+California,"Plumas County, CA",Female,85,15,262
+California,"Plumas County, CA",Male,0,0,430
+California,"Plumas County, CA",Male,5,0,478
+California,"Plumas County, CA",Male,10,0,557
+California,"Plumas County, CA",Male,15,0,473
+California,"Plumas County, CA",Male,20,0,371
+California,"Plumas County, CA",Male,25,0,412
+California,"Plumas County, CA",Male,30,0,538
+California,"Plumas County, CA",Male,35,0,531
+California,"Plumas County, CA",Male,40,0,524
+California,"Plumas County, CA",Male,45,0,468
+California,"Plumas County, CA",Male,50,0,522
+California,"Plumas County, CA",Male,55,10,701
+California,"Plumas County, CA",Male,60,0,933
+California,"Plumas County, CA",Male,65,18,1045
+California,"Plumas County, CA",Male,70,16,925
+California,"Plumas County, CA",Male,75,26,603
+California,"Plumas County, CA",Male,80,18,306
+California,"Plumas County, CA",Male,85,0,204
+California,"Riverside County, CA",Female,0,67,70821
+California,"Riverside County, CA",Female,5,11,81012
+California,"Riverside County, CA",Female,10,10,87837
+California,"Riverside County, CA",Female,15,24,85416
+California,"Riverside County, CA",Female,20,48,78997
+California,"Riverside County, CA",Female,25,61,82106
+California,"Riverside County, CA",Female,30,87,84172
+California,"Riverside County, CA",Female,35,84,82403
+California,"Riverside County, CA",Female,40,122,79273
+California,"Riverside County, CA",Female,45,192,74181
+California,"Riverside County, CA",Female,50,265,74412
+California,"Riverside County, CA",Female,55,376,73551
+California,"Riverside County, CA",Female,60,608,69765
+California,"Riverside County, CA",Female,65,780,60652
+California,"Riverside County, CA",Female,70,964,52439
+California,"Riverside County, CA",Female,75,1196,37363
+California,"Riverside County, CA",Female,80,1313,24770
+California,"Riverside County, CA",Female,85,1421,23884
+California,"Riverside County, CA",Male,0,95,74346
+California,"Riverside County, CA",Male,5,0,84363
+California,"Riverside County, CA",Male,10,11,92830
+California,"Riverside County, CA",Male,15,68,89169
+California,"Riverside County, CA",Male,20,112,81761
+California,"Riverside County, CA",Male,25,195,86200
+California,"Riverside County, CA",Male,30,240,87942
+California,"Riverside County, CA",Male,35,246,86797
+California,"Riverside County, CA",Male,40,274,80701
+California,"Riverside County, CA",Male,45,297,73847
+California,"Riverside County, CA",Male,50,472,76304
+California,"Riverside County, CA",Male,55,638,75155
+California,"Riverside County, CA",Male,60,971,69993
+California,"Riverside County, CA",Male,65,1208,56553
+California,"Riverside County, CA",Male,70,1334,46501
+California,"Riverside County, CA",Male,75,1405,31352
+California,"Riverside County, CA",Male,80,1431,19936
+California,"Riverside County, CA",Male,85,1308,16595
+California,"Sacramento County, CA",Female,0,53,46199
+California,"Sacramento County, CA",Female,5,0,49866
+California,"Sacramento County, CA",Female,10,0,51705
+California,"Sacramento County, CA",Female,15,22,48762
+California,"Sacramento County, CA",Female,20,27,46856
+California,"Sacramento County, CA",Female,25,41,58193
+California,"Sacramento County, CA",Female,30,56,63928
+California,"Sacramento County, CA",Female,35,74,59188
+California,"Sacramento County, CA",Female,40,77,52982
+California,"Sacramento County, CA",Female,45,138,48479
+California,"Sacramento County, CA",Female,50,167,49263
+California,"Sacramento County, CA",Female,55,263,49908
+California,"Sacramento County, CA",Female,60,447,48938
+California,"Sacramento County, CA",Female,65,513,42741
+California,"Sacramento County, CA",Female,70,626,35362
+California,"Sacramento County, CA",Female,75,755,22588
+California,"Sacramento County, CA",Female,80,851,15119
+California,"Sacramento County, CA",Female,85,917,16624
+California,"Sacramento County, CA",Male,0,49,48796
+California,"Sacramento County, CA",Male,5,0,51929
+California,"Sacramento County, CA",Male,10,11,54841
+California,"Sacramento County, CA",Male,15,36,50648
+California,"Sacramento County, CA",Male,20,67,47551
+California,"Sacramento County, CA",Male,25,121,58546
+California,"Sacramento County, CA",Male,30,164,64426
+California,"Sacramento County, CA",Male,35,149,60218
+California,"Sacramento County, CA",Male,40,181,53079
+California,"Sacramento County, CA",Male,45,184,47513
+California,"Sacramento County, CA",Male,50,288,48353
+California,"Sacramento County, CA",Male,55,450,47517
+California,"Sacramento County, CA",Male,60,652,44888
+California,"Sacramento County, CA",Male,65,781,36702
+California,"Sacramento County, CA",Male,70,828,29310
+California,"Sacramento County, CA",Male,75,808,17465
+California,"Sacramento County, CA",Male,80,800,10615
+California,"Sacramento County, CA",Male,85,847,9712
+California,"San Benito County, CA",Female,0,0,2167
+California,"San Benito County, CA",Female,5,0,2262
+California,"San Benito County, CA",Female,10,0,2543
+California,"San Benito County, CA",Female,15,0,2354
+California,"San Benito County, CA",Female,20,0,2043
+California,"San Benito County, CA",Female,25,0,2109
+California,"San Benito County, CA",Female,30,0,2298
+California,"San Benito County, CA",Female,35,0,2369
+California,"San Benito County, CA",Female,40,0,2207
+California,"San Benito County, CA",Female,45,0,1924
+California,"San Benito County, CA",Female,50,0,2064
+California,"San Benito County, CA",Female,55,12,2088
+California,"San Benito County, CA",Female,60,0,1892
+California,"San Benito County, CA",Female,65,18,1576
+California,"San Benito County, CA",Female,70,23,1223
+California,"San Benito County, CA",Female,75,30,806
+California,"San Benito County, CA",Female,80,23,568
+California,"San Benito County, CA",Female,85,29,556
+California,"San Benito County, CA",Male,0,0,2046
+California,"San Benito County, CA",Male,5,0,2407
+California,"San Benito County, CA",Male,10,0,2532
+California,"San Benito County, CA",Male,15,0,2438
+California,"San Benito County, CA",Male,20,0,2186
+California,"San Benito County, CA",Male,25,0,2195
+California,"San Benito County, CA",Male,30,0,2475
+California,"San Benito County, CA",Male,35,0,2627
+California,"San Benito County, CA",Male,40,0,2401
+California,"San Benito County, CA",Male,45,0,2133
+California,"San Benito County, CA",Male,50,15,2085
+California,"San Benito County, CA",Male,55,15,2107
+California,"San Benito County, CA",Male,60,18,1917
+California,"San Benito County, CA",Male,65,26,1526
+California,"San Benito County, CA",Male,70,24,1171
+California,"San Benito County, CA",Male,75,37,697
+California,"San Benito County, CA",Male,80,30,394
+California,"San Benito County, CA",Male,85,31,323
+California,"San Bernardino County, CA",Female,0,61,69432
+California,"San Bernardino County, CA",Female,5,10,76919
+California,"San Bernardino County, CA",Female,10,11,81347
+California,"San Bernardino County, CA",Female,15,18,76600
+California,"San Bernardino County, CA",Female,20,53,73964
+California,"San Bernardino County, CA",Female,25,76,81521
+California,"San Bernardino County, CA",Female,30,95,82987
+California,"San Bernardino County, CA",Female,35,104,75483
+California,"San Bernardino County, CA",Female,40,139,70234
+California,"San Bernardino County, CA",Female,45,208,66144
+California,"San Bernardino County, CA",Female,50,251,65926
+California,"San Bernardino County, CA",Female,55,384,65311
+California,"San Bernardino County, CA",Female,60,627,61618
+California,"San Bernardino County, CA",Female,65,761,50811
+California,"San Bernardino County, CA",Female,70,849,39397
+California,"San Bernardino County, CA",Female,75,1018,25173
+California,"San Bernardino County, CA",Female,80,1063,16127
+California,"San Bernardino County, CA",Female,85,1022,15614
+California,"San Bernardino County, CA",Male,0,79,72844
+California,"San Bernardino County, CA",Male,5,0,79846
+California,"San Bernardino County, CA",Male,10,10,85701
+California,"San Bernardino County, CA",Male,15,80,83022
+California,"San Bernardino County, CA",Male,20,143,82687
+California,"San Bernardino County, CA",Male,25,179,85516
+California,"San Bernardino County, CA",Male,30,262,85881
+California,"San Bernardino County, CA",Male,35,257,78634
+California,"San Bernardino County, CA",Male,40,271,71163
+California,"San Bernardino County, CA",Male,45,334,65098
+California,"San Bernardino County, CA",Male,50,512,65578
+California,"San Bernardino County, CA",Male,55,694,62986
+California,"San Bernardino County, CA",Male,60,890,58356
+California,"San Bernardino County, CA",Male,65,1125,45491
+California,"San Bernardino County, CA",Male,70,1129,34038
+California,"San Bernardino County, CA",Male,75,1122,20730
+California,"San Bernardino County, CA",Male,80,1018,11798
+California,"San Bernardino County, CA",Male,85,854,9110
+California,"San Diego County, CA",Female,0,64,90480
+California,"San Diego County, CA",Female,5,0,95442
+California,"San Diego County, CA",Female,10,0,95375
+California,"San Diego County, CA",Female,15,16,95319
+California,"San Diego County, CA",Female,20,47,101989
+California,"San Diego County, CA",Female,25,67,121369
+California,"San Diego County, CA",Female,30,100,130110
+California,"San Diego County, CA",Female,35,108,117869
+California,"San Diego County, CA",Female,40,139,105846
+California,"San Diego County, CA",Female,45,151,97591
+California,"San Diego County, CA",Female,50,267,99615
+California,"San Diego County, CA",Female,55,382,99578
+California,"San Diego County, CA",Female,60,623,96479
+California,"San Diego County, CA",Female,65,826,84858
+California,"San Diego County, CA",Female,70,1025,70904
+California,"San Diego County, CA",Female,75,1367,46976
+California,"San Diego County, CA",Female,80,1529,31341
+California,"San Diego County, CA",Female,85,1808,36154
+California,"San Diego County, CA",Male,0,87,95384
+California,"San Diego County, CA",Male,5,0,100595
+California,"San Diego County, CA",Male,10,12,100471
+California,"San Diego County, CA",Male,15,44,104029
+California,"San Diego County, CA",Male,20,119,124768
+California,"San Diego County, CA",Male,25,189,134414
+California,"San Diego County, CA",Male,30,260,140329
+California,"San Diego County, CA",Male,35,273,128729
+California,"San Diego County, CA",Male,40,274,111943
+California,"San Diego County, CA",Male,45,345,99771
+California,"San Diego County, CA",Male,50,473,100759
+California,"San Diego County, CA",Male,55,749,99131
+California,"San Diego County, CA",Male,60,1052,93920
+California,"San Diego County, CA",Male,65,1291,77458
+California,"San Diego County, CA",Male,70,1500,61949
+California,"San Diego County, CA",Male,75,1500,38699
+California,"San Diego County, CA",Male,80,1567,23302
+California,"San Diego County, CA",Male,85,1583,21486
+California,"San Francisco County, CA",Female,0,0,16904
+California,"San Francisco County, CA",Female,5,0,15443
+California,"San Francisco County, CA",Female,10,0,14648
+California,"San Francisco County, CA",Female,15,0,13751
+California,"San Francisco County, CA",Female,20,0,17946
+California,"San Francisco County, CA",Female,25,13,36496
+California,"San Francisco County, CA",Female,30,20,42698
+California,"San Francisco County, CA",Female,35,28,34645
+California,"San Francisco County, CA",Female,40,33,27515
+California,"San Francisco County, CA",Female,45,51,25225
+California,"San Francisco County, CA",Female,50,66,25176
+California,"San Francisco County, CA",Female,55,89,23840
+California,"San Francisco County, CA",Female,60,147,22849
+California,"San Francisco County, CA",Female,65,191,22153
+California,"San Francisco County, CA",Female,70,211,20038
+California,"San Francisco County, CA",Female,75,228,12766
+California,"San Francisco County, CA",Female,80,343,9690
+California,"San Francisco County, CA",Female,85,470,12815
+California,"San Francisco County, CA",Male,0,0,17711
+California,"San Francisco County, CA",Male,5,0,16180
+California,"San Francisco County, CA",Male,10,0,15591
+California,"San Francisco County, CA",Male,15,0,13941
+California,"San Francisco County, CA",Male,20,23,17204
+California,"San Francisco County, CA",Male,25,52,38422
+California,"San Francisco County, CA",Male,30,64,47968
+California,"San Francisco County, CA",Male,35,76,40253
+California,"San Francisco County, CA",Male,40,91,31248
+California,"San Francisco County, CA",Male,45,93,28917
+California,"San Francisco County, CA",Male,50,143,30430
+California,"San Francisco County, CA",Male,55,235,28538
+California,"San Francisco County, CA",Male,60,281,25017
+California,"San Francisco County, CA",Male,65,331,21831
+California,"San Francisco County, CA",Male,70,380,18322
+California,"San Francisco County, CA",Male,75,400,10759
+California,"San Francisco County, CA",Male,80,422,7188
+California,"San Francisco County, CA",Male,85,480,7817
+California,"San Joaquin County, CA",Female,0,23,25389
+California,"San Joaquin County, CA",Female,5,0,27993
+California,"San Joaquin County, CA",Female,10,0,30424
+California,"San Joaquin County, CA",Female,15,0,28483
+California,"San Joaquin County, CA",Female,20,18,25312
+California,"San Joaquin County, CA",Female,25,22,26448
+California,"San Joaquin County, CA",Female,30,24,27579
+California,"San Joaquin County, CA",Female,35,27,27194
+California,"San Joaquin County, CA",Female,40,38,25992
+California,"San Joaquin County, CA",Female,45,62,23468
+California,"San Joaquin County, CA",Female,50,94,23429
+California,"San Joaquin County, CA",Female,55,130,22817
+California,"San Joaquin County, CA",Female,60,189,21644
+California,"San Joaquin County, CA",Female,65,233,18408
+California,"San Joaquin County, CA",Female,70,312,15151
+California,"San Joaquin County, CA",Female,75,342,10145
+California,"San Joaquin County, CA",Female,80,355,6697
+California,"San Joaquin County, CA",Female,85,386,7242
+California,"San Joaquin County, CA",Male,0,31,26468
+California,"San Joaquin County, CA",Male,5,0,29899
+California,"San Joaquin County, CA",Male,10,0,32270
+California,"San Joaquin County, CA",Male,15,27,30279
+California,"San Joaquin County, CA",Male,20,49,26730
+California,"San Joaquin County, CA",Male,25,65,27390
+California,"San Joaquin County, CA",Male,30,80,28254
+California,"San Joaquin County, CA",Male,35,83,28198
+California,"San Joaquin County, CA",Male,40,84,26663
+California,"San Joaquin County, CA",Male,45,100,23867
+California,"San Joaquin County, CA",Male,50,152,23959
+California,"San Joaquin County, CA",Male,55,231,23157
+California,"San Joaquin County, CA",Male,60,358,20902
+California,"San Joaquin County, CA",Male,65,371,16697
+California,"San Joaquin County, CA",Male,70,371,12886
+California,"San Joaquin County, CA",Male,75,406,8186
+California,"San Joaquin County, CA",Male,80,389,4800
+California,"San Joaquin County, CA",Male,85,327,3934
+California,"San Luis Obispo County, CA",Female,0,0,6076
+California,"San Luis Obispo County, CA",Female,5,0,6734
+California,"San Luis Obispo County, CA",Female,10,0,7111
+California,"San Luis Obispo County, CA",Female,15,0,9905
+California,"San Luis Obispo County, CA",Female,20,0,12835
+California,"San Luis Obispo County, CA",Female,25,0,7468
+California,"San Luis Obispo County, CA",Female,30,0,7443
+California,"San Luis Obispo County, CA",Female,35,13,8037
+California,"San Luis Obispo County, CA",Female,40,17,7622
+California,"San Luis Obispo County, CA",Female,45,10,6667
+California,"San Luis Obispo County, CA",Female,50,23,7348
+California,"San Luis Obispo County, CA",Female,55,38,8614
+California,"San Luis Obispo County, CA",Female,60,72,10268
+California,"San Luis Obispo County, CA",Female,65,80,10387
+California,"San Luis Obispo County, CA",Female,70,133,8863
+California,"San Luis Obispo County, CA",Female,75,152,5673
+California,"San Luis Obispo County, CA",Female,80,155,3499
+California,"San Luis Obispo County, CA",Female,85,175,3993
+California,"San Luis Obispo County, CA",Male,0,0,6258
+California,"San Luis Obispo County, CA",Male,5,0,6994
+California,"San Luis Obispo County, CA",Male,10,0,7613
+California,"San Luis Obispo County, CA",Male,15,0,10414
+California,"San Luis Obispo County, CA",Male,20,17,15219
+California,"San Luis Obispo County, CA",Male,25,14,8134
+California,"San Luis Obispo County, CA",Male,30,21,8373
+California,"San Luis Obispo County, CA",Male,35,25,8662
+California,"San Luis Obispo County, CA",Male,40,33,8534
+California,"San Luis Obispo County, CA",Male,45,16,7320
+California,"San Luis Obispo County, CA",Male,50,46,7848
+California,"San Luis Obispo County, CA",Male,55,59,8267
+California,"San Luis Obispo County, CA",Male,60,110,9097
+California,"San Luis Obispo County, CA",Male,65,134,9195
+California,"San Luis Obispo County, CA",Male,70,179,8393
+California,"San Luis Obispo County, CA",Male,75,186,5130
+California,"San Luis Obispo County, CA",Male,80,157,2927
+California,"San Luis Obispo County, CA",Male,85,199,2543
+California,"San Mateo County, CA",Female,0,10,18549
+California,"San Mateo County, CA",Female,5,0,19388
+California,"San Mateo County, CA",Female,10,0,20757
+California,"San Mateo County, CA",Female,15,0,19979
+California,"San Mateo County, CA",Female,20,0,18402
+California,"San Mateo County, CA",Female,25,0,23096
+California,"San Mateo County, CA",Female,30,13,27122
+California,"San Mateo County, CA",Female,35,14,27380
+California,"San Mateo County, CA",Female,40,14,25855
+California,"San Mateo County, CA",Female,45,27,24407
+California,"San Mateo County, CA",Female,50,46,25470
+California,"San Mateo County, CA",Female,55,67,25491
+California,"San Mateo County, CA",Female,60,126,23946
+California,"San Mateo County, CA",Female,65,135,20957
+California,"San Mateo County, CA",Female,70,214,18139
+California,"San Mateo County, CA",Female,75,255,12668
+California,"San Mateo County, CA",Female,80,339,8904
+California,"San Mateo County, CA",Female,85,395,10503
+California,"San Mateo County, CA",Male,0,0,19475
+California,"San Mateo County, CA",Male,5,0,20642
+California,"San Mateo County, CA",Male,10,0,21901
+California,"San Mateo County, CA",Male,15,0,21184
+California,"San Mateo County, CA",Male,20,20,19655
+California,"San Mateo County, CA",Male,25,28,24951
+California,"San Mateo County, CA",Male,30,35,29777
+California,"San Mateo County, CA",Male,35,49,28753
+California,"San Mateo County, CA",Male,40,41,26023
+California,"San Mateo County, CA",Male,45,54,24989
+California,"San Mateo County, CA",Male,50,88,25490
+California,"San Mateo County, CA",Male,55,121,24778
+California,"San Mateo County, CA",Male,60,153,23198
+California,"San Mateo County, CA",Male,65,239,19262
+California,"San Mateo County, CA",Male,70,256,15634
+California,"San Mateo County, CA",Male,75,305,9806
+California,"San Mateo County, CA",Male,80,340,6491
+California,"San Mateo County, CA",Male,85,365,6127
+California,"Santa Barbara County, CA",Female,0,0,13124
+California,"Santa Barbara County, CA",Female,5,0,13396
+California,"Santa Barbara County, CA",Female,10,0,13875
+California,"Santa Barbara County, CA",Female,15,0,15701
+California,"Santa Barbara County, CA",Female,20,0,22174
+California,"Santa Barbara County, CA",Female,25,0,14860
+California,"Santa Barbara County, CA",Female,30,11,13340
+California,"Santa Barbara County, CA",Female,35,18,12840
+California,"Santa Barbara County, CA",Female,40,16,11956
+California,"Santa Barbara County, CA",Female,45,25,11083
+California,"Santa Barbara County, CA",Female,50,40,11587
+California,"Santa Barbara County, CA",Female,55,44,12432
+California,"Santa Barbara County, CA",Female,60,88,12735
+California,"Santa Barbara County, CA",Female,65,103,11522
+California,"Santa Barbara County, CA",Female,70,121,9843
+California,"Santa Barbara County, CA",Female,75,171,6838
+California,"Santa Barbara County, CA",Female,80,203,4857
+California,"Santa Barbara County, CA",Female,85,292,6116
+California,"Santa Barbara County, CA",Male,0,15,13531
+California,"Santa Barbara County, CA",Male,5,0,14330
+California,"Santa Barbara County, CA",Male,10,0,14442
+California,"Santa Barbara County, CA",Male,15,11,15652
+California,"Santa Barbara County, CA",Male,20,19,22577
+California,"Santa Barbara County, CA",Male,25,29,16113
+California,"Santa Barbara County, CA",Male,30,34,14690
+California,"Santa Barbara County, CA",Male,35,43,14141
+California,"Santa Barbara County, CA",Male,40,41,12821
+California,"Santa Barbara County, CA",Male,45,39,11582
+California,"Santa Barbara County, CA",Male,50,64,12095
+California,"Santa Barbara County, CA",Male,55,84,12247
+California,"Santa Barbara County, CA",Male,60,112,12205
+California,"Santa Barbara County, CA",Male,65,156,10695
+California,"Santa Barbara County, CA",Male,70,178,8946
+California,"Santa Barbara County, CA",Male,75,201,5793
+California,"Santa Barbara County, CA",Male,80,238,3719
+California,"Santa Barbara County, CA",Male,85,237,3663
+California,"Santa Clara County, CA",Female,0,26,48471
+California,"Santa Clara County, CA",Female,5,0,52822
+California,"Santa Clara County, CA",Female,10,0,56689
+California,"Santa Clara County, CA",Female,15,11,57859
+California,"Santa Clara County, CA",Female,20,18,53768
+California,"Santa Clara County, CA",Female,25,25,65419
+California,"Santa Clara County, CA",Female,30,30,71743
+California,"Santa Clara County, CA",Female,35,39,67989
+California,"Santa Clara County, CA",Female,40,62,62956
+California,"Santa Clara County, CA",Female,45,71,62646
+California,"Santa Clara County, CA",Female,50,123,62489
+California,"Santa Clara County, CA",Female,55,171,59134
+California,"Santa Clara County, CA",Female,60,257,53716
+California,"Santa Clara County, CA",Female,65,313,44462
+California,"Santa Clara County, CA",Female,70,385,37310
+California,"Santa Clara County, CA",Female,75,562,26795
+California,"Santa Clara County, CA",Female,80,720,19140
+California,"Santa Clara County, CA",Female,85,878,21675
+California,"Santa Clara County, CA",Male,0,33,51717
+California,"Santa Clara County, CA",Male,5,0,55316
+California,"Santa Clara County, CA",Male,10,0,60021
+California,"Santa Clara County, CA",Male,15,27,60779
+California,"Santa Clara County, CA",Male,20,52,57495
+California,"Santa Clara County, CA",Male,25,74,76145
+California,"Santa Clara County, CA",Male,30,86,84001
+California,"Santa Clara County, CA",Male,35,95,76767
+California,"Santa Clara County, CA",Male,40,113,66381
+California,"Santa Clara County, CA",Male,45,154,64719
+California,"Santa Clara County, CA",Male,50,209,64935
+California,"Santa Clara County, CA",Male,55,349,62728
+California,"Santa Clara County, CA",Male,60,463,55222
+California,"Santa Clara County, CA",Male,65,511,41745
+California,"Santa Clara County, CA",Male,70,552,32080
+California,"Santa Clara County, CA",Male,75,624,21766
+California,"Santa Clara County, CA",Male,80,840,14577
+California,"Santa Clara County, CA",Male,85,847,13696
+California,"Santa Cruz County, CA",Female,0,0,5797
+California,"Santa Cruz County, CA",Female,5,0,6803
+California,"Santa Cruz County, CA",Female,10,0,7157
+California,"Santa Cruz County, CA",Female,15,0,8062
+California,"Santa Cruz County, CA",Female,20,0,11705
+California,"Santa Cruz County, CA",Female,25,0,7933
+California,"Santa Cruz County, CA",Female,30,0,7675
+California,"Santa Cruz County, CA",Female,35,0,7960
+California,"Santa Cruz County, CA",Female,40,10,8032
+California,"Santa Cruz County, CA",Female,45,10,7541
+California,"Santa Cruz County, CA",Female,50,23,8210
+California,"Santa Cruz County, CA",Female,55,22,8535
+California,"Santa Cruz County, CA",Female,60,48,8964
+California,"Santa Cruz County, CA",Female,65,56,8667
+California,"Santa Cruz County, CA",Female,70,102,7304
+California,"Santa Cruz County, CA",Female,75,118,4462
+California,"Santa Cruz County, CA",Female,80,119,2544
+California,"Santa Cruz County, CA",Female,85,128,3028
+California,"Santa Cruz County, CA",Male,0,0,6017
+California,"Santa Cruz County, CA",Male,5,0,7115
+California,"Santa Cruz County, CA",Male,10,0,7675
+California,"Santa Cruz County, CA",Male,15,0,8236
+California,"Santa Cruz County, CA",Male,20,14,11725
+California,"Santa Cruz County, CA",Male,25,11,8391
+California,"Santa Cruz County, CA",Male,30,26,8238
+California,"Santa Cruz County, CA",Male,35,25,8278
+California,"Santa Cruz County, CA",Male,40,18,8086
+California,"Santa Cruz County, CA",Male,45,28,7866
+California,"Santa Cruz County, CA",Male,50,43,8698
+California,"Santa Cruz County, CA",Male,55,54,8303
+California,"Santa Cruz County, CA",Male,60,68,8622
+California,"Santa Cruz County, CA",Male,65,101,8230
+California,"Santa Cruz County, CA",Male,70,143,7099
+California,"Santa Cruz County, CA",Male,75,140,3803
+California,"Santa Cruz County, CA",Male,80,113,2060
+California,"Santa Cruz County, CA",Male,85,126,1654
+California,"Shasta County, CA",Female,0,0,4888
+California,"Shasta County, CA",Female,5,0,5453
+California,"Shasta County, CA",Female,10,0,5625
+California,"Shasta County, CA",Female,15,0,5081
+California,"Shasta County, CA",Female,20,0,4505
+California,"Shasta County, CA",Female,25,0,5347
+California,"Shasta County, CA",Female,30,12,6108
+California,"Shasta County, CA",Female,35,10,5951
+California,"Shasta County, CA",Female,40,16,5270
+California,"Shasta County, CA",Female,45,20,4615
+California,"Shasta County, CA",Female,50,22,5415
+California,"Shasta County, CA",Female,55,48,6303
+California,"Shasta County, CA",Female,60,88,6818
+California,"Shasta County, CA",Female,65,101,6418
+California,"Shasta County, CA",Female,70,115,5736
+California,"Shasta County, CA",Female,75,161,3838
+California,"Shasta County, CA",Female,80,176,2498
+California,"Shasta County, CA",Female,85,152,2400
+California,"Shasta County, CA",Male,0,0,5128
+California,"Shasta County, CA",Male,5,0,5805
+California,"Shasta County, CA",Male,10,0,5941
+California,"Shasta County, CA",Male,15,0,5426
+California,"Shasta County, CA",Male,20,0,4965
+California,"Shasta County, CA",Male,25,18,5542
+California,"Shasta County, CA",Male,30,33,6069
+California,"Shasta County, CA",Male,35,19,5960
+California,"Shasta County, CA",Male,40,26,5434
+California,"Shasta County, CA",Male,45,37,4602
+California,"Shasta County, CA",Male,50,41,5136
+California,"Shasta County, CA",Male,55,79,5848
+California,"Shasta County, CA",Male,60,124,6276
+California,"Shasta County, CA",Male,65,159,5851
+California,"Shasta County, CA",Male,70,168,5110
+California,"Shasta County, CA",Male,75,196,3326
+California,"Shasta County, CA",Male,80,179,1993
+California,"Shasta County, CA",Male,85,141,1454
+California,"Sierra County, CA",Female,0,0,78
+California,"Sierra County, CA",Female,5,0,68
+California,"Sierra County, CA",Female,10,0,90
+California,"Sierra County, CA",Female,15,0,64
+California,"Sierra County, CA",Female,20,0,48
+California,"Sierra County, CA",Female,25,0,55
+California,"Sierra County, CA",Female,30,0,64
+California,"Sierra County, CA",Female,35,0,85
+California,"Sierra County, CA",Female,40,0,100
+California,"Sierra County, CA",Female,45,0,91
+California,"Sierra County, CA",Female,50,0,94
+California,"Sierra County, CA",Female,55,0,125
+California,"Sierra County, CA",Female,60,0,165
+California,"Sierra County, CA",Female,65,0,148
+California,"Sierra County, CA",Female,70,0,158
+California,"Sierra County, CA",Female,75,0,96
+California,"Sierra County, CA",Female,80,0,50
+California,"Sierra County, CA",Female,85,0,57
+California,"Sierra County, CA",Male,0,0,71
+California,"Sierra County, CA",Male,5,0,80
+California,"Sierra County, CA",Male,10,0,73
+California,"Sierra County, CA",Male,15,0,84
+California,"Sierra County, CA",Male,20,0,50
+California,"Sierra County, CA",Male,25,0,77
+California,"Sierra County, CA",Male,30,0,73
+California,"Sierra County, CA",Male,35,0,88
+California,"Sierra County, CA",Male,40,0,98
+California,"Sierra County, CA",Male,45,0,83
+California,"Sierra County, CA",Male,50,0,98
+California,"Sierra County, CA",Male,55,0,118
+California,"Sierra County, CA",Male,60,0,164
+California,"Sierra County, CA",Male,65,0,154
+California,"Sierra County, CA",Male,70,0,163
+California,"Sierra County, CA",Male,75,0,96
+California,"Sierra County, CA",Male,80,0,52
+California,"Sierra County, CA",Male,85,0,36
+California,"Siskiyou County, CA",Female,0,0,1031
+California,"Siskiyou County, CA",Female,5,0,1203
+California,"Siskiyou County, CA",Female,10,0,1330
+California,"Siskiyou County, CA",Female,15,0,1149
+California,"Siskiyou County, CA",Female,20,0,927
+California,"Siskiyou County, CA",Female,25,0,1006
+California,"Siskiyou County, CA",Female,30,0,1142
+California,"Siskiyou County, CA",Female,35,0,1271
+California,"Siskiyou County, CA",Female,40,0,1131
+California,"Siskiyou County, CA",Female,45,0,1023
+California,"Siskiyou County, CA",Female,50,0,1305
+California,"Siskiyou County, CA",Female,55,11,1478
+California,"Siskiyou County, CA",Female,60,18,1977
+California,"Siskiyou County, CA",Female,65,28,2038
+California,"Siskiyou County, CA",Female,70,35,1756
+California,"Siskiyou County, CA",Female,75,33,1120
+California,"Siskiyou County, CA",Female,80,37,612
+California,"Siskiyou County, CA",Female,85,34,635
+California,"Siskiyou County, CA",Male,0,0,1141
+California,"Siskiyou County, CA",Male,5,0,1252
+California,"Siskiyou County, CA",Male,10,0,1411
+California,"Siskiyou County, CA",Male,15,0,1297
+California,"Siskiyou County, CA",Male,20,0,1042
+California,"Siskiyou County, CA",Male,25,0,1066
+California,"Siskiyou County, CA",Male,30,0,1184
+California,"Siskiyou County, CA",Male,35,0,1253
+California,"Siskiyou County, CA",Male,40,0,1150
+California,"Siskiyou County, CA",Male,45,10,1116
+California,"Siskiyou County, CA",Male,50,18,1211
+California,"Siskiyou County, CA",Male,55,27,1350
+California,"Siskiyou County, CA",Male,60,26,1716
+California,"Siskiyou County, CA",Male,65,34,1864
+California,"Siskiyou County, CA",Male,70,46,1788
+California,"Siskiyou County, CA",Male,75,60,1122
+California,"Siskiyou County, CA",Male,80,51,597
+California,"Siskiyou County, CA",Male,85,39,445
+California,"Solano County, CA",Female,0,15,12504
+California,"Solano County, CA",Female,5,0,13709
+California,"Solano County, CA",Female,10,0,13851
+California,"Solano County, CA",Female,15,0,13013
+California,"Solano County, CA",Female,20,0,12935
+California,"Solano County, CA",Female,25,12,14752
+California,"Solano County, CA",Female,30,14,16265
+California,"Solano County, CA",Female,35,21,15783
+California,"Solano County, CA",Female,40,32,14178
+California,"Solano County, CA",Female,45,26,12716
+California,"Solano County, CA",Female,50,52,13737
+California,"Solano County, CA",Female,55,85,15039
+California,"Solano County, CA",Female,60,92,15193
+California,"Solano County, CA",Female,65,140,13916
+California,"Solano County, CA",Female,70,191,11477
+California,"Solano County, CA",Female,75,216,7382
+California,"Solano County, CA",Female,80,243,4592
+California,"Solano County, CA",Female,85,257,4780
+California,"Solano County, CA",Male,0,11,13236
+California,"Solano County, CA",Male,5,0,14326
+California,"Solano County, CA",Male,10,0,14799
+California,"Solano County, CA",Male,15,20,14029
+California,"Solano County, CA",Male,20,25,14457
+California,"Solano County, CA",Male,25,26,15790
+California,"Solano County, CA",Male,30,47,17117
+California,"Solano County, CA",Male,35,56,16635
+California,"Solano County, CA",Male,40,58,14611
+California,"Solano County, CA",Male,45,68,13191
+California,"Solano County, CA",Male,50,83,13938
+California,"Solano County, CA",Male,55,125,14569
+California,"Solano County, CA",Male,60,194,14048
+California,"Solano County, CA",Male,65,235,12127
+California,"Solano County, CA",Male,70,241,9953
+California,"Solano County, CA",Male,75,279,5928
+California,"Solano County, CA",Male,80,252,3291
+California,"Solano County, CA",Male,85,214,2786
+California,"Sonoma County, CA",Female,0,0,10907
+California,"Sonoma County, CA",Female,5,0,12438
+California,"Sonoma County, CA",Female,10,0,13832
+California,"Sonoma County, CA",Female,15,0,13694
+California,"Sonoma County, CA",Female,20,0,12748
+California,"Sonoma County, CA",Female,25,10,14186
+California,"Sonoma County, CA",Female,30,0,15465
+California,"Sonoma County, CA",Female,35,13,16117
+California,"Sonoma County, CA",Female,40,16,15629
+California,"Sonoma County, CA",Female,45,23,14133
+California,"Sonoma County, CA",Female,50,37,15608
+California,"Sonoma County, CA",Female,55,66,17197
+California,"Sonoma County, CA",Female,60,118,18106
+California,"Sonoma County, CA",Female,65,157,17597
+California,"Sonoma County, CA",Female,70,216,15958
+California,"Sonoma County, CA",Female,75,295,10053
+California,"Sonoma County, CA",Female,80,305,5862
+California,"Sonoma County, CA",Female,85,331,6331
+California,"Sonoma County, CA",Male,0,0,11595
+California,"Sonoma County, CA",Male,5,0,12729
+California,"Sonoma County, CA",Male,10,0,14579
+California,"Sonoma County, CA",Male,15,0,14531
+California,"Sonoma County, CA",Male,20,17,13148
+California,"Sonoma County, CA",Male,25,25,14751
+California,"Sonoma County, CA",Male,30,47,16193
+California,"Sonoma County, CA",Male,35,32,16577
+California,"Sonoma County, CA",Male,40,44,15943
+California,"Sonoma County, CA",Male,45,51,14482
+California,"Sonoma County, CA",Male,50,54,15686
+California,"Sonoma County, CA",Male,55,109,16140
+California,"Sonoma County, CA",Male,60,153,16508
+California,"Sonoma County, CA",Male,65,199,15481
+California,"Sonoma County, CA",Male,70,294,13721
+California,"Sonoma County, CA",Male,75,370,8439
+California,"Sonoma County, CA",Male,80,306,4497
+California,"Sonoma County, CA",Male,85,306,3658
+California,"Stanislaus County, CA",Female,0,18,18205
+California,"Stanislaus County, CA",Female,5,0,20074
+California,"Stanislaus County, CA",Female,10,0,21577
+California,"Stanislaus County, CA",Female,15,0,19961
+California,"Stanislaus County, CA",Female,20,0,17806
+California,"Stanislaus County, CA",Female,25,17,18876
+California,"Stanislaus County, CA",Female,30,22,19915
+California,"Stanislaus County, CA",Female,35,25,18547
+California,"Stanislaus County, CA",Female,40,31,17405
+California,"Stanislaus County, CA",Female,45,43,15821
+California,"Stanislaus County, CA",Female,50,74,16034
+California,"Stanislaus County, CA",Female,55,105,16087
+California,"Stanislaus County, CA",Female,60,162,15351
+California,"Stanislaus County, CA",Female,65,207,13206
+California,"Stanislaus County, CA",Female,70,212,10969
+California,"Stanislaus County, CA",Female,75,282,7386
+California,"Stanislaus County, CA",Female,80,300,4881
+California,"Stanislaus County, CA",Female,85,342,4934
+California,"Stanislaus County, CA",Male,0,18,18974
+California,"Stanislaus County, CA",Male,5,0,20889
+California,"Stanislaus County, CA",Male,10,0,22547
+California,"Stanislaus County, CA",Male,15,0,21096
+California,"Stanislaus County, CA",Male,20,33,18543
+California,"Stanislaus County, CA",Male,25,45,19669
+California,"Stanislaus County, CA",Male,30,64,20450
+California,"Stanislaus County, CA",Male,35,76,19361
+California,"Stanislaus County, CA",Male,40,80,17981
+California,"Stanislaus County, CA",Male,45,73,16108
+California,"Stanislaus County, CA",Male,50,125,16282
+California,"Stanislaus County, CA",Male,55,180,15683
+California,"Stanislaus County, CA",Male,60,228,14780
+California,"Stanislaus County, CA",Male,65,307,11838
+California,"Stanislaus County, CA",Male,70,278,9167
+California,"Stanislaus County, CA",Male,75,316,5923
+California,"Stanislaus County, CA",Male,80,332,3509
+California,"Stanislaus County, CA",Male,85,253,2888
+California,"Sutter County, CA",Female,0,0,3066
+California,"Sutter County, CA",Female,5,0,3372
+California,"Sutter County, CA",Female,10,0,3562
+California,"Sutter County, CA",Female,15,0,3408
+California,"Sutter County, CA",Female,20,0,2966
+California,"Sutter County, CA",Female,25,0,3209
+California,"Sutter County, CA",Female,30,0,3386
+California,"Sutter County, CA",Female,35,0,3215
+California,"Sutter County, CA",Female,40,0,3024
+California,"Sutter County, CA",Female,45,0,2775
+California,"Sutter County, CA",Female,50,13,2835
+California,"Sutter County, CA",Female,55,22,2970
+California,"Sutter County, CA",Female,60,27,2985
+California,"Sutter County, CA",Female,65,39,2590
+California,"Sutter County, CA",Female,70,51,2149
+California,"Sutter County, CA",Female,75,53,1683
+California,"Sutter County, CA",Female,80,65,1092
+California,"Sutter County, CA",Female,85,63,1202
+California,"Sutter County, CA",Male,0,0,3297
+California,"Sutter County, CA",Male,5,0,3562
+California,"Sutter County, CA",Male,10,0,3807
+California,"Sutter County, CA",Male,15,0,3654
+California,"Sutter County, CA",Male,20,0,3072
+California,"Sutter County, CA",Male,25,10,3441
+California,"Sutter County, CA",Male,30,10,3518
+California,"Sutter County, CA",Male,35,11,3319
+California,"Sutter County, CA",Male,40,10,3121
+California,"Sutter County, CA",Male,45,10,2751
+California,"Sutter County, CA",Male,50,13,2829
+California,"Sutter County, CA",Male,55,25,3074
+California,"Sutter County, CA",Male,60,50,2863
+California,"Sutter County, CA",Male,65,47,2435
+California,"Sutter County, CA",Male,70,64,2022
+California,"Sutter County, CA",Male,75,52,1252
+California,"Sutter County, CA",Male,80,68,858
+California,"Sutter County, CA",Male,85,58,788
+California,"Tehama County, CA",Female,0,0,1886
+California,"Tehama County, CA",Female,5,0,2200
+California,"Tehama County, CA",Female,10,0,2258
+California,"Tehama County, CA",Female,15,0,2000
+California,"Tehama County, CA",Female,20,0,1733
+California,"Tehama County, CA",Female,25,0,1874
+California,"Tehama County, CA",Female,30,0,1968
+California,"Tehama County, CA",Female,35,0,1928
+California,"Tehama County, CA",Female,40,0,1842
+California,"Tehama County, CA",Female,45,0,1657
+California,"Tehama County, CA",Female,50,14,1830
+California,"Tehama County, CA",Female,55,21,2326
+California,"Tehama County, CA",Female,60,34,2383
+California,"Tehama County, CA",Female,65,30,2102
+California,"Tehama County, CA",Female,70,49,1888
+California,"Tehama County, CA",Female,75,55,1268
+California,"Tehama County, CA",Female,80,66,886
+California,"Tehama County, CA",Female,85,44,808
+California,"Tehama County, CA",Male,0,0,1920
+California,"Tehama County, CA",Male,5,0,2196
+California,"Tehama County, CA",Male,10,0,2493
+California,"Tehama County, CA",Male,15,0,2237
+California,"Tehama County, CA",Male,20,0,1724
+California,"Tehama County, CA",Male,25,10,1965
+California,"Tehama County, CA",Male,30,0,2005
+California,"Tehama County, CA",Male,35,0,2037
+California,"Tehama County, CA",Male,40,0,1860
+California,"Tehama County, CA",Male,45,14,1764
+California,"Tehama County, CA",Male,50,19,1876
+California,"Tehama County, CA",Male,55,29,2143
+California,"Tehama County, CA",Male,60,29,2267
+California,"Tehama County, CA",Male,65,47,1938
+California,"Tehama County, CA",Male,70,66,1754
+California,"Tehama County, CA",Male,75,53,1111
+California,"Tehama County, CA",Male,80,59,748
+California,"Tehama County, CA",Male,85,63,571
+California,"Trinity County, CA",Female,0,0,364
+California,"Trinity County, CA",Female,5,0,371
+California,"Trinity County, CA",Female,10,0,387
+California,"Trinity County, CA",Female,15,0,342
+California,"Trinity County, CA",Female,20,0,286
+California,"Trinity County, CA",Female,25,0,332
+California,"Trinity County, CA",Female,30,0,368
+California,"Trinity County, CA",Female,35,0,385
+California,"Trinity County, CA",Female,40,0,434
+California,"Trinity County, CA",Female,45,0,420
+California,"Trinity County, CA",Female,50,0,415
+California,"Trinity County, CA",Female,55,0,588
+California,"Trinity County, CA",Female,60,0,774
+California,"Trinity County, CA",Female,65,0,831
+California,"Trinity County, CA",Female,70,0,660
+California,"Trinity County, CA",Female,75,10,366
+California,"Trinity County, CA",Female,80,11,258
+California,"Trinity County, CA",Female,85,13,188
+California,"Trinity County, CA",Male,0,0,357
+California,"Trinity County, CA",Male,5,0,427
+California,"Trinity County, CA",Male,10,0,442
+California,"Trinity County, CA",Male,15,0,429
+California,"Trinity County, CA",Male,20,0,281
+California,"Trinity County, CA",Male,25,0,349
+California,"Trinity County, CA",Male,30,0,334
+California,"Trinity County, CA",Male,35,0,447
+California,"Trinity County, CA",Male,40,0,456
+California,"Trinity County, CA",Male,45,0,450
+California,"Trinity County, CA",Male,50,0,511
+California,"Trinity County, CA",Male,55,0,621
+California,"Trinity County, CA",Male,60,12,722
+California,"Trinity County, CA",Male,65,13,857
+California,"Trinity County, CA",Male,70,16,710
+California,"Trinity County, CA",Male,75,16,465
+California,"Trinity County, CA",Male,80,0,262
+California,"Trinity County, CA",Male,85,0,193
+California,"Tulare County, CA",Female,0,15,17127
+California,"Tulare County, CA",Female,5,0,19480
+California,"Tulare County, CA",Female,10,0,21292
+California,"Tulare County, CA",Female,15,0,19359
+California,"Tulare County, CA",Female,20,10,16688
+California,"Tulare County, CA",Female,25,11,16808
+California,"Tulare County, CA",Female,30,15,16416
+California,"Tulare County, CA",Female,35,19,16005
+California,"Tulare County, CA",Female,40,31,14894
+California,"Tulare County, CA",Female,45,41,13085
+California,"Tulare County, CA",Female,50,54,12689
+California,"Tulare County, CA",Female,55,76,12411
+California,"Tulare County, CA",Female,60,121,11660
+California,"Tulare County, CA",Female,65,139,9854
+California,"Tulare County, CA",Female,70,188,8017
+California,"Tulare County, CA",Female,75,224,5428
+California,"Tulare County, CA",Female,80,219,3570
+California,"Tulare County, CA",Female,85,232,3399
+California,"Tulare County, CA",Male,0,14,17675
+California,"Tulare County, CA",Male,5,0,20452
+California,"Tulare County, CA",Male,10,0,22230
+California,"Tulare County, CA",Male,15,10,20189
+California,"Tulare County, CA",Male,20,25,17010
+California,"Tulare County, CA",Male,25,42,16962
+California,"Tulare County, CA",Male,30,41,17107
+California,"Tulare County, CA",Male,35,61,16378
+California,"Tulare County, CA",Male,40,59,15389
+California,"Tulare County, CA",Male,45,76,13374
+California,"Tulare County, CA",Male,50,104,13036
+California,"Tulare County, CA",Male,55,116,12358
+California,"Tulare County, CA",Male,60,173,11316
+California,"Tulare County, CA",Male,65,211,9103
+California,"Tulare County, CA",Male,70,229,7138
+California,"Tulare County, CA",Male,75,219,4507
+California,"Tulare County, CA",Male,80,204,2737
+California,"Tulare County, CA",Male,85,188,2033
+California,"Tuolumne County, CA",Female,0,0,1172
+California,"Tuolumne County, CA",Female,5,0,1351
+California,"Tuolumne County, CA",Female,10,0,1387
+California,"Tuolumne County, CA",Female,15,0,1275
+California,"Tuolumne County, CA",Female,20,0,1117
+California,"Tuolumne County, CA",Female,25,0,1285
+California,"Tuolumne County, CA",Female,30,0,1495
+California,"Tuolumne County, CA",Female,35,0,1468
+California,"Tuolumne County, CA",Female,40,0,1405
+California,"Tuolumne County, CA",Female,45,0,1200
+California,"Tuolumne County, CA",Female,50,0,1479
+California,"Tuolumne County, CA",Female,55,13,1832
+California,"Tuolumne County, CA",Female,60,23,2367
+California,"Tuolumne County, CA",Female,65,29,2501
+California,"Tuolumne County, CA",Female,70,38,2161
+California,"Tuolumne County, CA",Female,75,39,1441
+California,"Tuolumne County, CA",Female,80,39,948
+California,"Tuolumne County, CA",Female,85,49,853
+California,"Tuolumne County, CA",Male,0,0,1218
+California,"Tuolumne County, CA",Male,5,0,1278
+California,"Tuolumne County, CA",Male,10,0,1426
+California,"Tuolumne County, CA",Male,15,0,1354
+California,"Tuolumne County, CA",Male,20,0,1369
+California,"Tuolumne County, CA",Male,25,0,1742
+California,"Tuolumne County, CA",Male,30,0,1910
+California,"Tuolumne County, CA",Male,35,0,1824
+California,"Tuolumne County, CA",Male,40,0,1769
+California,"Tuolumne County, CA",Male,45,0,1543
+California,"Tuolumne County, CA",Male,50,12,1612
+California,"Tuolumne County, CA",Male,55,28,1781
+California,"Tuolumne County, CA",Male,60,33,2243
+California,"Tuolumne County, CA",Male,65,53,2387
+California,"Tuolumne County, CA",Male,70,75,2134
+California,"Tuolumne County, CA",Male,75,72,1404
+California,"Tuolumne County, CA",Male,80,54,807
+California,"Tuolumne County, CA",Male,85,55,593
+California,"Ventura County, CA",Female,0,16,21854
+California,"Ventura County, CA",Female,5,0,24868
+California,"Ventura County, CA",Female,10,0,27395
+California,"Ventura County, CA",Female,15,0,27178
+California,"Ventura County, CA",Female,20,0,25976
+California,"Ventura County, CA",Female,25,0,27488
+California,"Ventura County, CA",Female,30,34,27279
+California,"Ventura County, CA",Female,35,22,26699
+California,"Ventura County, CA",Female,40,24,26157
+California,"Ventura County, CA",Female,45,47,25787
+California,"Ventura County, CA",Female,50,67,27899
+California,"Ventura County, CA",Female,55,101,28547
+California,"Ventura County, CA",Female,60,166,28094
+California,"Ventura County, CA",Female,65,205,23775
+California,"Ventura County, CA",Female,70,256,20025
+California,"Ventura County, CA",Female,75,385,13697
+California,"Ventura County, CA",Female,80,478,9123
+California,"Ventura County, CA",Female,85,563,9911
+California,"Ventura County, CA",Male,0,16,22576
+California,"Ventura County, CA",Male,5,0,26186
+California,"Ventura County, CA",Male,10,0,28377
+California,"Ventura County, CA",Male,15,13,28257
+California,"Ventura County, CA",Male,20,30,26728
+California,"Ventura County, CA",Male,25,51,28677
+California,"Ventura County, CA",Male,30,67,28719
+California,"Ventura County, CA",Male,35,60,28236
+California,"Ventura County, CA",Male,40,85,26641
+California,"Ventura County, CA",Male,45,81,25320
+California,"Ventura County, CA",Male,50,124,28112
+California,"Ventura County, CA",Male,55,185,28346
+California,"Ventura County, CA",Male,60,271,27202
+California,"Ventura County, CA",Male,65,321,22256
+California,"Ventura County, CA",Male,70,341,17761
+California,"Ventura County, CA",Male,75,429,11387
+California,"Ventura County, CA",Male,80,441,6909
+California,"Ventura County, CA",Male,85,419,6029
+California,"Yolo County, CA",Female,0,0,5316
+California,"Yolo County, CA",Female,5,0,6232
+California,"Yolo County, CA",Female,10,0,6461
+California,"Yolo County, CA",Female,15,0,8747
+California,"Yolo County, CA",Female,20,0,15355
+California,"Yolo County, CA",Female,25,0,7747
+California,"Yolo County, CA",Female,30,0,6834
+California,"Yolo County, CA",Female,35,0,6771
+California,"Yolo County, CA",Female,40,12,6601
+California,"Yolo County, CA",Female,45,15,5706
+California,"Yolo County, CA",Female,50,11,5867
+California,"Yolo County, CA",Female,55,25,5738
+California,"Yolo County, CA",Female,60,37,5683
+California,"Yolo County, CA",Female,65,59,5123
+California,"Yolo County, CA",Female,70,72,4304
+California,"Yolo County, CA",Female,75,83,2771
+California,"Yolo County, CA",Female,80,99,1822
+California,"Yolo County, CA",Female,85,109,2036
+California,"Yolo County, CA",Male,0,0,5522
+California,"Yolo County, CA",Male,5,0,6268
+California,"Yolo County, CA",Male,10,0,6707
+California,"Yolo County, CA",Male,15,0,8270
+California,"Yolo County, CA",Male,20,0,13604
+California,"Yolo County, CA",Male,25,11,7735
+California,"Yolo County, CA",Male,30,18,7188
+California,"Yolo County, CA",Male,35,11,6862
+California,"Yolo County, CA",Male,40,16,6567
+California,"Yolo County, CA",Male,45,32,5777
+California,"Yolo County, CA",Male,50,26,5765
+California,"Yolo County, CA",Male,55,46,5584
+California,"Yolo County, CA",Male,60,72,5278
+California,"Yolo County, CA",Male,65,63,4450
+California,"Yolo County, CA",Male,70,83,3623
+California,"Yolo County, CA",Male,75,102,2232
+California,"Yolo County, CA",Male,80,96,1380
+California,"Yolo County, CA",Male,85,100,1215
+California,"Yuba County, CA",Female,0,0,2959
+California,"Yuba County, CA",Female,5,0,3178
+California,"Yuba County, CA",Female,10,0,3155
+California,"Yuba County, CA",Female,15,0,2603
+California,"Yuba County, CA",Female,20,0,2510
+California,"Yuba County, CA",Female,25,0,2994
+California,"Yuba County, CA",Female,30,0,3305
+California,"Yuba County, CA",Female,35,0,2914
+California,"Yuba County, CA",Female,40,0,2655
+California,"Yuba County, CA",Female,45,0,2117
+California,"Yuba County, CA",Female,50,0,2144
+California,"Yuba County, CA",Female,55,18,2246
+California,"Yuba County, CA",Female,60,38,2268
+California,"Yuba County, CA",Female,65,28,2025
+California,"Yuba County, CA",Female,70,34,1582
+California,"Yuba County, CA",Female,75,39,975
+California,"Yuba County, CA",Female,80,31,629
+California,"Yuba County, CA",Female,85,45,507
+California,"Yuba County, CA",Male,0,0,3140
+California,"Yuba County, CA",Male,5,0,3384
+California,"Yuba County, CA",Male,10,0,3240
+California,"Yuba County, CA",Male,15,0,2928
+California,"Yuba County, CA",Male,20,0,3177
+California,"Yuba County, CA",Male,25,0,3281
+California,"Yuba County, CA",Male,30,0,3316
+California,"Yuba County, CA",Male,35,0,3151
+California,"Yuba County, CA",Male,40,13,2682
+California,"Yuba County, CA",Male,45,15,2107
+California,"Yuba County, CA",Male,50,21,2206
+California,"Yuba County, CA",Male,55,40,2393
+California,"Yuba County, CA",Male,60,46,2237
+California,"Yuba County, CA",Male,65,56,1939
+California,"Yuba County, CA",Male,70,51,1520
+California,"Yuba County, CA",Male,75,40,841
+California,"Yuba County, CA",Male,80,39,515
+California,"Yuba County, CA",Male,85,42,404

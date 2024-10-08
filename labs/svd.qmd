@@ -1,0 +1,50 @@
+---
+title: "Bayesian mortality estimation with SVD models"
+author: "Monica Alexander"
+format: pdf
+number-sections: true
+subtitle: "BMSS, October 16 2024"
+toc: true
+execute: 
+  echo: true
+  warning: false
+  message: false
+---
+
+# Overview
+
+```{r}
+library(rstan)
+library(tidyverse)
+library(tidybayes)
+library(janitor)
+```
+
+# Read in data
+
+```{r}
+d_ca <- read_csv("../data/CA_mortality.csv")
+unique(d_ca$county)
+d_ca |> 
+  mutate(rate = deaths/pop) |> 
+  filter(county %in% c("Alameda County, CA", "Los Angeles County, CA",
+                       "Stanislaus County, CA", "Del Norte County, CA")) |> 
+  ggplot(aes(age, rate, color = county)) + 
+  geom_point()+
+  scale_y_log10()+
+  facet_wrap(~gender)
+```
+
+## National data for SVD
+
+```{r}
+lt <- read_csv("../data/lt.csv")
+```
+
+## SVD
+
+```{r}
+lt_male <- lt |> 
+  filter(gender=="Male")
+```
+

@@ -20,6 +20,6 @@ The `rstan` package is probably to most important but also may prove to be finic
 
 - [Intro slides](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/slides/intro.key)
 - [Labs](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/tree/main/labs)
-    + Mortality estimation with Gompertz models: [quarto doc](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/gompertz.qmd) [pdf](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/gompertz.pdf)
+    + Mortality estimation with Gompertz models: [quarto doc](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/gompertz.qmd); [pdf](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/gompertz.pdf)
     + Mortality estimation with SVD XX TODO
-    + Migration estimation with Rogers Castro models: [quarto doc](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/rogers_castro.qmd) [pdf](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/rogers_castro.pdf)
+    + Migration estimation with Rogers Castro models: [quarto doc](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/rogers_castro.qmd); [pdf](https://github.com/MJAlexander/bayesian-demographic-estimation-tutorial/blob/main/labs/rogers_castro.pdf)

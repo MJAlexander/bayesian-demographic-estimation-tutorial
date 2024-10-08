@@ -1,3 +1,8 @@
+data/States/
+data/lt.R
+data/wonder.R
+data/cc-est2023*
+data/Underlying*
 data/acs.R
 data/usa*.dta
 .DS_Store
