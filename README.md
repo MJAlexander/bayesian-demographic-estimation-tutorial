@@ -13,7 +13,7 @@ If you would like to follow along with the coded examples, you will need to inst
 - `janitor`
 - `rcbayes`
 
-The `rstan` package is probably to most important but also may prove to be finicky to install. See detailed instructions here: https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
+The `rstan` package is probably the most important but also may prove to be finicky to install. See detailed instructions here: https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
 
 
 ## Materials
