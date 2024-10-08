@@ -44,15 +44,70 @@ rcbayes::interact_rc()
 
 # Read in data
 
-XX todo
+For this example, we'll be using data from the 2022 round of the American Community Survey (ACS). The data below show the population by age and number of in-migrants in the past year by age for each US state. 
 
-# Fit model
+```{r}
+d <- read_csv("../data/us_state_mig.csv")
+```
 
-XX todo
+We can plot the in-migration rates observed in the ACS for a few different states. Florida has a clear retirement peak, which is not obvious in the other examples. Maine, which is a smaller state, has much noisier data. 
 
-# Plot
+```{r}
+d |> 
+  filter(state %in% c("florida", "new york", "california", "maine")) |> 
+  ggplot(aes(age, rate, color = state)) + 
+  geom_point()+
+  facet_wrap(~state, scales = "free_y")+
+  theme(legend.position = "none")+
+  labs(title = "In-migration rates, 2022", y = "migration rate")
+```
 
-XX todo
+
+# Fit Rogers-Castro model
+
+Now we're going to fit a Rogers-Castro migration curve to some ACS data, starting with Florida. To do this, we're going to use the `mig_estimate_rc` function in the `rcbayes` package. This is a wrapper function for `rstan`, and allows you to specify which components of the curve to fit, as well as the usual Stan control settings. For Florida, let's fit the full 13 parameter model. 
+
+```{r}
+d_florida <- d |> filter(state=="florida")
+ages <- d_florida$age
+migrants <- d_florida$n_mig
+pop <-  d_florida$pop
+
+res <- rcbayes::mig_estimate_rc(ages = ages, 
+                                migrants = migrants, 
+                                pop = pop,
+                                pre_working_age = TRUE,
+                                working_age = TRUE,
+                                retirement = TRUE,
+                                post_retirement = TRUE,
+                                control = list(adapt_delta = 0.96),
+                                seed = 1899)
+
+```
+
+The `res` object has several elements, including a summary of the model parameters, convergence checks, and the estimated fit and uncertainty. 
+
+```{r}
+names(res)
+res$pars_df
+```
+
+Let's pull out the fit dataframe (which also have the data), and plot to see what it looks like. 
+
+```{r}
+res$fit_df |> 
+  ggplot(aes(age, data)) + 
+  geom_point(aes(color = "data", fill = "data"))+
+  geom_line(aes(age, median, color = "fit"))+
+  geom_ribbon(aes(age, ymin = lower, ymax = upper, fill = "fit"), alpha = 0.2)+
+  scale_color_brewer(name = "", palette = "Set1")+
+  scale_fill_brewer(name = "", palette = "Set1")+
+  theme_bw()+
+  labs(title = "In-migration rates, Florida, 2022", subtitle = "Data from ACS, with Rogers-Castro fit", y = "migration rate")
+```
+
+## Another example XX to do
+
 
 # Extensions
 
