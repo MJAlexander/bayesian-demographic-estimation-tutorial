@@ -321,6 +321,7 @@ $$
 _{20}q_{40} = 1 - \prod_{x=40}^{60} {_1p_x}
 $$
 Check the Stan file `gomp_partial.stan` to see this translated into code.
+
 ## Fit the model
 
 Get the data in the right format. Note that everything is a matrix now because we have more than one area:
